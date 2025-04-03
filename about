@@ -1,73 +1,1223 @@
+<!DOCTYPE html>
+<html lang="ru">
 
-<!DOCTYPE html> <html lang="ru"> <head> <meta charset="utf-8" /> <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> <meta name="viewport" content="width=device-width, initial-scale=1.0" /> <!--metatextblock--> <title>О НАС</title> <meta property="og:url" content="https://www.vobla-vo.ru/about" /> <meta property="og:title" content="О НАС" /> <meta property="og:description" content="" /> <meta property="og:type" content="website" /> <meta property="og:image" content="https://static.tildacdn.com/tild3662-3065-4332-b339-353638653138/6873388908.jpg" /> <link rel="canonical" href="https://www.vobla-vo.ru/about"> <!--/metatextblock--> <meta name="format-detection" content="telephone=no" /> <meta http-equiv="x-dns-prefetch-control" content="on"> <link rel="dns-prefetch" href="https://ws.tildacdn.com"> <link rel="dns-prefetch" href="https://static.tildacdn.com"> <link rel="shortcut icon" href="https://static.tildacdn.com/tild3535-3963-4536-a138-363261393061/icon-round.png" type="image/x-icon" /> <!-- Assets --> <script src="https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js" async charset="utf-8"></script> <link rel="stylesheet" href="https://static.tildacdn.com/css/tilda-grid-3.0.min.css" type="text/css" media="all" onerror="this.loaderr='y';"/> <link rel="stylesheet" href="https://static.tildacdn.com/ws/project4717714/tilda-blocks-page45125201.min.css?t=1737550416" type="text/css" media="all" onerror="this.loaderr='y';" /> <link rel="preconnect" href="https://fonts.gstatic.com"> <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200..900&subset=latin,cyrillic" rel="stylesheet"> <link rel="stylesheet" href="https://static.tildacdn.com/css/tilda-forms-1.0.min.css" type="text/css" media="all" onerror="this.loaderr='y';" /> <link rel="stylesheet" href="https://static.tildacdn.com/css/tilda-cart-1.0.min.css" type="text/css" media="all" onerror="this.loaderr='y';" /> <script nomodule src="https://static.tildacdn.com/js/tilda-polyfill-1.0.min.js" charset="utf-8"></script> <script type="text/javascript">function t_onReady(func) {if(document.readyState!='loading') {func();} else {document.addEventListener('DOMContentLoaded',func);}}
-function t_onFuncLoad(funcName,okFunc,time) {if(typeof window[funcName]==='function') {okFunc();} else {setTimeout(function() {t_onFuncLoad(funcName,okFunc,time);},(time||100));}}function t_throttle(fn,threshhold,scope) {return function() {fn.apply(scope||this,arguments);};}function t396_initialScale(t){t=document.getElementById("rec"+t);if(t){t=t.querySelector(".t396__artboard");if(t){var e,r=document.documentElement.clientWidth,a=[];if(i=t.getAttribute("data-artboard-screens"))for(var i=i.split(","),l=0;l<i.length;l++)a[l]=parseInt(i[l],10);else a=[320,480,640,960,1200];for(l=0;l<a.length;l++){var n=a[l];n<=r&&(e=n)}var o="edit"===window.allrecords.getAttribute("data-tilda-mode"),d="center"===t396_getFieldValue(t,"valign",e,a),c="grid"===t396_getFieldValue(t,"upscale",e,a),s=t396_getFieldValue(t,"height_vh",e,a),u=t396_getFieldValue(t,"height",e,a),g=!!window.opr&&!!window.opr.addons||!!window.opera||-1!==navigator.userAgent.indexOf(" OPR/");if(!o&&d&&!c&&!s&&u&&!g){for(var _=parseFloat((r/e).toFixed(3)),f=[t,t.querySelector(".t396__carrier"),t.querySelector(".t396__filter")],l=0;l<f.length;l++)f[l].style.height=Math.floor(parseInt(u,10)*_)+"px";t396_scaleInitial__getElementsToScale(t).forEach(function(t){t.style.zoom=_})}}}}function t396_scaleInitial__getElementsToScale(t){return t?Array.prototype.slice.call(t.children).filter(function(t){return t&&(t.classList.contains("t396__elem")||t.classList.contains("t396__group"))}):[]}function t396_getFieldValue(t,e,r,a){var i=a[a.length-1],l=r===i?t.getAttribute("data-artboard-"+e):t.getAttribute("data-artboard-"+e+"-res-"+r);if(!l)for(var n=0;n<a.length;n++){var o=a[n];if(!(o<=r)&&(l=o===i?t.getAttribute("data-artboard-"+e):t.getAttribute("data-artboard-"+e+"-res-"+o)))break}return l}</script> <script src="https://static.tildacdn.com/js/jquery-1.10.2.min.js" charset="utf-8" onerror="this.loaderr='y';"></script> <script src="https://static.tildacdn.com/js/tilda-scripts-3.0.min.js" charset="utf-8" defer onerror="this.loaderr='y';"></script> <script src="https://static.tildacdn.com/ws/project4717714/tilda-blocks-page45125201.min.js?t=1737550416" charset="utf-8" async onerror="this.loaderr='y';"></script> <script src="https://static.tildacdn.com/js/tilda-lazyload-1.0.min.js" charset="utf-8" async onerror="this.loaderr='y';"></script> <script src="https://static.tildacdn.com/js/tilda-zero-1.1.min.js" charset="utf-8" async onerror="this.loaderr='y';"></script> <script src="https://static.tildacdn.com/js/tilda-menu-1.0.min.js" charset="utf-8" async onerror="this.loaderr='y';"></script> <script src="https://static.tildacdn.com/js/tilda-forms-1.0.min.js" charset="utf-8" async onerror="this.loaderr='y';"></script> <script src="https://static.tildacdn.com/js/tilda-cart-1.0.min.js" charset="utf-8" async onerror="this.loaderr='y';"></script> <script src="https://static.tildacdn.com/js/tilda-widget-positions-1.0.min.js" charset="utf-8" async onerror="this.loaderr='y';"></script> <script src="https://static.tildacdn.com/js/tilda-zero-scale-1.0.min.js" charset="utf-8" async onerror="this.loaderr='y';"></script> <script src="https://static.tildacdn.com/js/tilda-skiplink-1.0.min.js" charset="utf-8" async onerror="this.loaderr='y';"></script> <script src="https://static.tildacdn.com/js/tilda-events-1.0.min.js" charset="utf-8" async onerror="this.loaderr='y';"></script> <script type="text/javascript">window.dataLayer=window.dataLayer||[];</script> <script type="text/javascript">(function() {if((/bot|google|yandex|baidu|bing|msn|duckduckbot|teoma|slurp|crawler|spider|robot|crawling|facebook/i.test(navigator.userAgent))===false&&typeof(sessionStorage)!='undefined'&&sessionStorage.getItem('visited')!=='y'&&document.visibilityState){var style=document.createElement('style');style.type='text/css';style.innerHTML='@media screen and (min-width: 980px) {.t-records {opacity: 0;}.t-records_animated {-webkit-transition: opacity ease-in-out .2s;-moz-transition: opacity ease-in-out .2s;-o-transition: opacity ease-in-out .2s;transition: opacity ease-in-out .2s;}.t-records.t-records_visible {opacity: 1;}}';document.getElementsByTagName('head')[0].appendChild(style);function t_setvisRecs(){var alr=document.querySelectorAll('.t-records');Array.prototype.forEach.call(alr,function(el) {el.classList.add("t-records_animated");});setTimeout(function() {Array.prototype.forEach.call(alr,function(el) {el.classList.add("t-records_visible");});sessionStorage.setItem("visited","y");},400);}
-document.addEventListener('DOMContentLoaded',t_setvisRecs);}})();</script></head> <body class="t-body" style="margin:0;"> <!--allrecords--> <div id="allrecords" class="t-records" data-hook="blocks-collection-content-node" data-tilda-project-id="4717714" data-tilda-page-id="45125201" data-tilda-page-alias="about" data-tilda-formskey="53e56bf16182979d84204ecbe4717714" data-tilda-lazy="yes" data-tilda-project-lang="RU" data-tilda-root-zone="com" data-tilda-ts="y"> <!--header--> <header id="t-header" class="t-records" data-hook="blocks-collection-content-node" data-tilda-project-id="4717714" data-tilda-page-id="45138815" data-tilda-formskey="53e56bf16182979d84204ecbe4717714" data-tilda-lazy="yes" data-tilda-project-lang="RU" data-tilda-root-zone="com"> <div id="rec717624864" class="r t-rec" style=" " data-record-type="456"> <!-- T456 --> <div id="nav717624864marker"></div> <div class="tmenu-mobile"> <div class="tmenu-mobile__container"> <div class="tmenu-mobile__text t-name t-name_md" field="menu_mob_title">&nbsp;</div> <button type="button"
-class="t-menuburger t-menuburger_fourth t-menuburger__small"
-aria-label="Навигационное меню"
-aria-expanded="false"> <span style="background-color:#ffffff;"></span> <span style="background-color:#ffffff;"></span> <span style="background-color:#ffffff;"></span> <span style="background-color:#ffffff;"></span> </button> <script>function t_menuburger_init(recid) {var rec=document.querySelector('#rec' + recid);if(!rec) return;var burger=rec.querySelector('.t-menuburger');if(!burger) return;var isSecondStyle=burger.classList.contains('t-menuburger_second');if(isSecondStyle&&!window.isMobile&&!('ontouchend' in document)) {burger.addEventListener('mouseenter',function() {if(burger.classList.contains('t-menuburger-opened')) return;burger.classList.remove('t-menuburger-unhovered');burger.classList.add('t-menuburger-hovered');});burger.addEventListener('mouseleave',function() {if(burger.classList.contains('t-menuburger-opened')) return;burger.classList.remove('t-menuburger-hovered');burger.classList.add('t-menuburger-unhovered');setTimeout(function() {burger.classList.remove('t-menuburger-unhovered');},300);});}
-burger.addEventListener('click',function() {if(!burger.closest('.tmenu-mobile')&&!burger.closest('.t450__burger_container')&&!burger.closest('.t466__container')&&!burger.closest('.t204__burger')&&!burger.closest('.t199__js__menu-toggler')) {burger.classList.toggle('t-menuburger-opened');burger.classList.remove('t-menuburger-unhovered');}});var menu=rec.querySelector('[data-menu="yes"]');if(!menu) return;var menuLinks=menu.querySelectorAll('.t-menu__link-item');var submenuClassList=['t978__menu-link_hook','t978__tm-link','t966__tm-link','t794__tm-link','t-menusub__target-link'];Array.prototype.forEach.call(menuLinks,function(link) {link.addEventListener('click',function() {var isSubmenuHook=submenuClassList.some(function(submenuClass) {return link.classList.contains(submenuClass);});if(isSubmenuHook) return;burger.classList.remove('t-menuburger-opened');});});menu.addEventListener('clickedAnchorInTooltipMenu',function() {burger.classList.remove('t-menuburger-opened');});}
-t_onReady(function() {t_onFuncLoad('t_menuburger_init',function(){t_menuburger_init('717624864');});});</script> <style>.t-menuburger{position:relative;flex-shrink:0;width:28px;height:20px;padding:0;border:none;background-color:transparent;outline:none;-webkit-transform:rotate(0deg);transform:rotate(0deg);transition:transform .5s ease-in-out;cursor:pointer;z-index:999;}.t-menuburger span{display:block;position:absolute;width:100%;opacity:1;left:0;-webkit-transform:rotate(0deg);transform:rotate(0deg);transition:.25s ease-in-out;height:3px;background-color:#000;}.t-menuburger span:nth-child(1){top:0px;}.t-menuburger span:nth-child(2),.t-menuburger span:nth-child(3){top:8px;}.t-menuburger span:nth-child(4){top:16px;}.t-menuburger__big{width:42px;height:32px;}.t-menuburger__big span{height:5px;}.t-menuburger__big span:nth-child(2),.t-menuburger__big span:nth-child(3){top:13px;}.t-menuburger__big span:nth-child(4){top:26px;}.t-menuburger__small{width:22px;height:14px;}.t-menuburger__small span{height:2px;}.t-menuburger__small span:nth-child(2),.t-menuburger__small span:nth-child(3){top:6px;}.t-menuburger__small span:nth-child(4){top:12px;}.t-menuburger-opened span:nth-child(1){top:8px;width:0%;left:50%;}.t-menuburger-opened span:nth-child(2){-webkit-transform:rotate(45deg);transform:rotate(45deg);}.t-menuburger-opened span:nth-child(3){-webkit-transform:rotate(-45deg);transform:rotate(-45deg);}.t-menuburger-opened span:nth-child(4){top:8px;width:0%;left:50%;}.t-menuburger-opened.t-menuburger__big span:nth-child(1){top:6px;}.t-menuburger-opened.t-menuburger__big span:nth-child(4){top:18px;}.t-menuburger-opened.t-menuburger__small span:nth-child(1),.t-menuburger-opened.t-menuburger__small span:nth-child(4){top:6px;}@media (hover),(min-width:0\0){.t-menuburger_first:hover span:nth-child(1){transform:translateY(1px);}.t-menuburger_first:hover span:nth-child(4){transform:translateY(-1px);}.t-menuburger_first.t-menuburger__big:hover span:nth-child(1){transform:translateY(3px);}.t-menuburger_first.t-menuburger__big:hover span:nth-child(4){transform:translateY(-3px);}}.t-menuburger_second span:nth-child(2),.t-menuburger_second span:nth-child(3){width:80%;left:20%;right:0;}@media (hover),(min-width:0\0){.t-menuburger_second.t-menuburger-hovered span:nth-child(2),.t-menuburger_second.t-menuburger-hovered span:nth-child(3){animation:t-menuburger-anim 0.3s ease-out normal forwards;}.t-menuburger_second.t-menuburger-unhovered span:nth-child(2),.t-menuburger_second.t-menuburger-unhovered span:nth-child(3){animation:t-menuburger-anim2 0.3s ease-out normal forwards;}}.t-menuburger_second.t-menuburger-opened span:nth-child(2),.t-menuburger_second.t-menuburger-opened span:nth-child(3){left:0;right:0;width:100%!important;}.t-menuburger_third span:nth-child(4){width:70%;left:unset;right:0;}@media (hover),(min-width:0\0){.t-menuburger_third:not(.t-menuburger-opened):hover span:nth-child(4){width:100%;}}.t-menuburger_third.t-menuburger-opened span:nth-child(4){width:0!important;right:50%;}.t-menuburger_fourth{height:12px;}.t-menuburger_fourth.t-menuburger__small{height:8px;}.t-menuburger_fourth.t-menuburger__big{height:18px;}.t-menuburger_fourth span:nth-child(2),.t-menuburger_fourth span:nth-child(3){top:4px;opacity:0;}.t-menuburger_fourth span:nth-child(4){top:8px;}.t-menuburger_fourth.t-menuburger__small span:nth-child(2),.t-menuburger_fourth.t-menuburger__small span:nth-child(3){top:3px;}.t-menuburger_fourth.t-menuburger__small span:nth-child(4){top:6px;}.t-menuburger_fourth.t-menuburger__small span:nth-child(2),.t-menuburger_fourth.t-menuburger__small span:nth-child(3){top:3px;}.t-menuburger_fourth.t-menuburger__small span:nth-child(4){top:6px;}.t-menuburger_fourth.t-menuburger__big span:nth-child(2),.t-menuburger_fourth.t-menuburger__big span:nth-child(3){top:6px;}.t-menuburger_fourth.t-menuburger__big span:nth-child(4){top:12px;}@media (hover),(min-width:0\0){.t-menuburger_fourth:not(.t-menuburger-opened):hover span:nth-child(1){transform:translateY(1px);}.t-menuburger_fourth:not(.t-menuburger-opened):hover span:nth-child(4){transform:translateY(-1px);}.t-menuburger_fourth.t-menuburger__big:not(.t-menuburger-opened):hover span:nth-child(1){transform:translateY(3px);}.t-menuburger_fourth.t-menuburger__big:not(.t-menuburger-opened):hover span:nth-child(4){transform:translateY(-3px);}}.t-menuburger_fourth.t-menuburger-opened span:nth-child(1),.t-menuburger_fourth.t-menuburger-opened span:nth-child(4){top:4px;}.t-menuburger_fourth.t-menuburger-opened span:nth-child(2),.t-menuburger_fourth.t-menuburger-opened span:nth-child(3){opacity:1;}@keyframes t-menuburger-anim{0%{width:80%;left:20%;right:0;}50%{width:100%;left:0;right:0;}100%{width:80%;left:0;right:20%;}}@keyframes t-menuburger-anim2{0%{width:80%;left:0;}50%{width:100%;right:0;left:0;}100%{width:80%;left:20%;right:0;}}</style> </div> </div> <style>.tmenu-mobile{background-color:#111;display:none;width:100%;top:0;z-index:990;}.tmenu-mobile_positionfixed{position:fixed;}.tmenu-mobile__text{color:#fff;}.tmenu-mobile__container{min-height:64px;padding:20px;position:relative;box-sizing:border-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-ms-flex-align:center;align-items:center;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;}.tmenu-mobile__list{display:block;}.tmenu-mobile__burgerlogo{display:inline-block;font-size:24px;font-weight:400;white-space:nowrap;vertical-align:middle;}.tmenu-mobile__imglogo{height:auto;display:block;max-width:300px!important;box-sizing:border-box;padding:0;margin:0 auto;}@media screen and (max-width:980px){.tmenu-mobile__menucontent_hidden{display:none;height:100%;}.tmenu-mobile{display:block;}}@media screen and (max-width:980px){#rec717624864 .t-menuburger{-webkit-order:1;-ms-flex-order:1;order:1;}}</style> <style> #rec717624864 .tmenu-mobile__burgerlogo a{color:#ffffff;}</style> <style> #rec717624864 .tmenu-mobile__burgerlogo__title{color:#ffffff;}</style> <div id="nav717624864" class="t456 t456__positionfixed tmenu-mobile__menucontent_hidden" style="background-color: rgba(0,0,0,1); " data-bgcolor-hex="#000000" data-bgcolor-rgba="rgba(0,0,0,1)" data-navmarker="nav717624864marker" data-appearoffset="" data-bgopacity-two="100" data-menushadow="" data-menushadow-css="" data-bgopacity="1" data-bgcolor-rgba-afterscroll="rgba(0,0,0,1)" data-menu-items-align="center" data-menu="yes"> <div class="t456__maincontainer " style=""> <nav
-class="t456__rightwrapper t456__menualign_center"
-style=""> <ul role="list" class="t456__list t-menu__list"> <li class="t456__list_item"
-style="padding:0 15px 0 0;"> <a class="t-menu__link-item"
-href="https://vobla-vo.ru/home" data-menu-submenu-hook="" data-menu-item-number="1">ВОБЛА-ВО!</a> </li> <li class="t456__list_item"
-style="padding:0 15px;"> <a class="t-menu__link-item"
-href="https://vobla-vo.ru/delivery" data-menu-submenu-hook="" data-menu-item-number="2">ДОСТАВКА</a> </li> <li class="t456__list_item"
-style="padding:0 0 0 15px;"> <a class="t-menu__link-item"
-href="https://vobla-vo.ru/about" data-menu-submenu-hook="" data-menu-item-number="3">О НАС</a> </li> </ul> </nav> </div> </div> <style>@media screen and (max-width:980px){#rec717624864 .t456__leftcontainer{padding:20px;}}@media screen and (max-width:980px){#rec717624864 .t456__imglogo{padding:20px 0;}}</style> <script type="text/javascript">t_onReady(function() {t_onFuncLoad('t456_setListMagin',function() {t456_setListMagin('717624864','flase');});});t_onReady(function() {t_onFuncLoad('t_menu__highlightActiveLinks',function() {t_menu__highlightActiveLinks('.t456__list_item a');});t_onFuncLoad('t_menu__findAnchorLinks',function() {t_menu__findAnchorLinks('717624864','.t456__list_item a');});});t_onReady(function() {t_onFuncLoad('t_menu__setBGcolor',function() {t_menu__setBGcolor('717624864','.t456');window.addEventListener('resize',function() {t_menu__setBGcolor('717624864','.t456');});});t_onFuncLoad('t_menu__interactFromKeyboard',function() {t_menu__interactFromKeyboard('717624864');});});t_onReady(function() {t_onFuncLoad('t_menu__changeBgOpacity',function() {t_menu__changeBgOpacity('717624864','.t456');window.addEventListener('scroll',t_throttle(function() {t_menu__changeBgOpacity('717624864','.t456');}));});});</script> <script type="text/javascript">t_onReady(function() {t_onFuncLoad('t_menu__createMobileMenu',function() {t_menu__createMobileMenu('717624864','.t456');});});</script> <style>#rec717624864 .t-menu__link-item{}@supports (overflow:-webkit-marquee) and (justify-content:inherit){#rec717624864 .t-menu__link-item,#rec717624864 .t-menu__link-item.t-active{opacity:1 !important;}}</style> <style> #rec717624864 .t456__logowrapper a{color:#ffffff;}#rec717624864 a.t-menu__link-item{color:#ffffff;font-weight:600;}</style> <style> #rec717624864 .t456__logo{color:#ffffff;}</style> <!--[if IE 8]> <style>#rec717624864 .t456{filter:progid:DXImageTransform.Microsoft.gradient(startColorStr='#D9000000',endColorstr='#D9000000');}</style> <![endif]--> </div> <div id="rec718665941" class="r t-rec" style=" " data-animationappear="off" data-record-type="706"> <!--tcart--> <!-- @classes: t-text t-text_xs t-name t-name_xs t-name_md t-btn t-btn_sm --> <script>t_onReady(function() {setTimeout(function() {t_onFuncLoad('tcart__init',function() {tcart__init('718665941');});},50);var userAgent=navigator.userAgent.toLowerCase();var body=document.body;if(!body) return;if(userAgent.indexOf('instagram')!==-1&&userAgent.indexOf('iphone')!==-1) {body.style.position='relative';}
-var rec=document.querySelector('#rec718665941');if(!rec) return;var cartWindow=rec.querySelector('.t706__cartwin,.t706__cartpage');var allRecords=document.querySelector('.t-records');var currentMode=allRecords.getAttribute('data-tilda-mode');if(cartWindow&&currentMode!=='edit'&&currentMode!=='preview') {cartWindow.addEventListener('scroll',t_throttle(function() {if(window.lazy==='y'||document.querySelector('#allrecords').getAttribute('data-tilda-lazy')==='yes') {t_onFuncLoad('t_lazyload_update',function() {t_lazyload_update();});}},500));}});</script> <div class="t706" data-cart-fullscreen="yes" data-cart-countdown="yes" data-project-currency="руб" data-project-currency-side="r" data-project-currency-sep="," data-project-currency-code="RUB" data-cart-minorder="600"> <div class="t706__carticon t706__carticon_sm" style=""> <div class="t706__carticon-text t-name t-name_xs"></div> <div class="t706__carticon-wrapper"> <div class="t706__carticon-imgwrap" style="border: 1px solid #ded7cb;background-color:#5a656a;"> <svg role="img" style="stroke:#ded7cb;" class="t706__carticon-img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"> <path fill="none" stroke-width="2" stroke-miterlimit="10" d="M44 18h10v45H10V18h10z"/> <path fill="none" stroke-width="2" stroke-miterlimit="10" d="M22 24V11c0-5.523 4.477-10 10-10s10 4.477 10 10v13"/> </svg> </div> <div class="t706__carticon-counter js-carticon-counter"></div> </div> </div> <div class="t706__cartpage" style="display: none;"> <div class="t706__cartpage-top"> <button type="button" class="t706__cartpage-back" aria-label="Назад"> <svg role="presentation" class="t706__close-icon t706__cartpage-back-icon" width="1em" height="1em" viewBox="0 0 26 26"> <g fill-rule="evenodd" stroke-width="2" fill="#000" fill-rule="evenodd"> <path d="m10.4142 5 1.4142 1.4142L5.829 12.414l17.5852.0002v2L5.829 14.414l5.9994 6.0002-1.4142 1.4142L2 13.4142 10.4142 5Z" /> </g> </svg> </button> <div class="t706__cartpage-heading t-name t-name_xl"></div> <button type="button" class="t706__cartpage-close" aria-label="Закрыть корзину"> <svg role="presentation" class="t706__close-icon t706__cartpage-close-icon" width="1em" height="1em" viewBox="0 0 23 23"> <g fill-rule="evenodd" stroke-width="2" fill="#000" fill-rule="evenodd"> <path d="M0 1.4142 2.1213-.707 23.3345 20.506l-2.1213 2.1213z" /> <path d="m21.2132 0 2.1213 2.1213L2.1213 23.3345 0 21.2132z" /> </g> </svg> </button> </div> <div class="t706__cartpage-content t-container"> <div class="t706__cartpage-open-form-wrap" style="display: none;"> <button class="t706__cartpage-open-form t-btn" style="color:#ffffff;background-color:#000000;border-radius:250px; -moz-border-radius:250px; -webkit-border-radius:250px;">ОФОРМИТЬ ЗАКАЗ</button> </div> <div class="t706__cartpage-form t-col t-col_6"> <div class="t706__cartpage-form-wrapper t-input_nomargin"> <form
-id="form718665941" name='form718665941' role="form" action='' method='POST' data-formactiontype="2" data-inputbox=".t-input-group" 
-class="t-form js-form-proccess t-form_inputs-total_2 t-form_bbonly" data-formsended-callback="t706_onSuccessCallback"> <input type="hidden" name="formservices[]" value="10a4f738809f7b4de54bcf144fda8361" class="js-formaction-services"> <input type="hidden" name="tildaspec-formname" tabindex="-1" value="Cart"> <div class="js-successbox t-form__successbox t-text t-text_md"
-aria-live="polite"
-style="display:none;" data-success-message="Благодарим за заказ! Мы свяжемся с вами в ближайшее время :)"></div> <div class="t-form__inputsbox t-form__inputsbox_inrow"> <div
-class=" t-input-group t-input-group_nm " data-input-lid="9952244879700" data-field-type="nm"> <label
-for='input_9952244879700'
-class="t-input-title t-descr t-descr_md"
-id="field-title_9952244879700" data-redactor-toolbar="no"
-field="li_title__9952244879700"
-style="color:;">Ваше имя</label> <div class="t-input-block "> <input
-type="text"
-autocomplete="name"
-name="name"
-id="input_9952244879700"
-class="t-input js-tilda-rule t-input_bbonly"
-value=""
-placeholder="Иван Иванович или просто Ваня" data-tilda-req="1" aria-required="true" data-tilda-rule="name"
-aria-describedby="error_9952244879700"
-style="color:#000000;border:1px solid #000000;"> </div> <div class="t-input-error" aria-live="polite" id="error_9952244879700"></div> </div> <div
-class=" t-input-group t-input-group_ph " data-input-lid="9952244879702" data-field-type="ph"> <label
-for='input_9952244879702'
-class="t-input-title t-descr t-descr_md"
-id="field-title_9952244879702" data-redactor-toolbar="no"
-field="li_title__9952244879702"
-style="color:;">Ваш номер телефона</label> <div class="t-input-block "> <input
-type="tel"
-autocomplete="tel"
-name="phone"
-id="input_9952244879702" data-phonemask-init="no" data-phonemask-id="718665941" data-phonemask-lid="9952244879702" data-phonemask-maskcountry="RU" class="t-input js-phonemask-input js-tilda-rule t-input_bbonly"
-value=""
-placeholder="+7(999)999-9999" data-tilda-req="1" aria-required="true" aria-describedby="error_9952244879702"
-style="color:#000000;border:1px solid #000000;"> <script type="text/javascript">if(!document.getElementById('t-phonemask-script')) {(function(d,w,o) {var n=d.getElementsByTagName(o)[0],s=d.createElement(o),f=function(){n.parentNode.insertBefore(s,n);};s.type="text/javascript";s.async=true;s.id='t-phonemask-script';s.src="https://static.tildacdn.com/js/tilda-phone-mask-1.1.min.js";if(w.opera=="[object Opera]") {d.addEventListener("DOMContentLoaded",f,false);} else {f();}})(document,window,'script');} else {t_onReady(function() {t_onFuncLoad('t_form_phonemask_load',function() {var phoneMasks=document.querySelectorAll('#rec718665941 [data-phonemask-lid="9952244879702"]');t_form_phonemask_load(phoneMasks);});});}</script> </div> <div class="t-input-error" aria-live="polite" id="error_9952244879702"></div> </div> <div class="t-form__errorbox-middle"> <!--noindex--> <div
-class="js-errorbox-all t-form__errorbox-wrapper"
-style="display:none;" data-nosnippet
-tabindex="-1"
-aria-label="Ошибки при заполнении формы"> <ul
-role="list"
-class="t-form__errorbox-text t-text t-text_md"> <li class="t-form__errorbox-item js-rule-error js-rule-error-all"></li> <li class="t-form__errorbox-item js-rule-error js-rule-error-req"></li> <li class="t-form__errorbox-item js-rule-error js-rule-error-email"></li> <li class="t-form__errorbox-item js-rule-error js-rule-error-name"></li> <li class="t-form__errorbox-item js-rule-error js-rule-error-phone"></li> <li class="t-form__errorbox-item js-rule-error js-rule-error-minlength"></li> <li class="t-form__errorbox-item js-rule-error js-rule-error-string"></li> </ul> </div> <!--/noindex--> </div> <div class="t-form__submit"> <button
-type="submit"
-class="t-submit"
-style="color:#ffffff;background-color:#000000;border-radius:250px; -moz-border-radius:250px; -webkit-border-radius:250px;" data-field="buttontitle" data-buttonfieldset="button">
-ОФОРМИТЬ ЗАКАЗ </button> </div> </div> <div class="t-form__errorbox-bottom"> <!--noindex--> <div
-class="js-errorbox-all t-form__errorbox-wrapper"
-style="display:none;" data-nosnippet
-tabindex="-1"
-aria-label="Ошибки при заполнении формы"> <ul
-role="list"
-class="t-form__errorbox-text t-text t-text_md"> <li class="t-form__errorbox-item js-rule-error js-rule-error-all"></li> <li class="t-form__errorbox-item js-rule-error js-rule-error-req"></li> <li class="t-form__errorbox-item js-rule-error js-rule-error-email"></li> <li class="t-form__errorbox-item js-rule-error js-rule-error-name"></li> <li class="t-form__errorbox-item js-rule-error js-rule-error-phone"></li> <li class="t-form__errorbox-item js-rule-error js-rule-error-minlength"></li> <li class="t-form__errorbox-item js-rule-error js-rule-error-string"></li> </ul> </div> <!--/noindex--> </div> </form> <style>#rec718665941 input::-webkit-input-placeholder {color:#000000;opacity:0.5;}#rec718665941 input::-moz-placeholder{color:#000000;opacity:0.5;}#rec718665941 input:-moz-placeholder {color:#000000;opacity:0.5;}#rec718665941 input:-ms-input-placeholder{color:#000000;opacity:0.5;}#rec718665941 textarea::-webkit-input-placeholder {color:#000000;opacity:0.5;}#rec718665941 textarea::-moz-placeholder{color:#000000;opacity:0.5;}#rec718665941 textarea:-moz-placeholder {color:#000000;opacity:0.5;}#rec718665941 textarea:-ms-input-placeholder{color:#000000;opacity:0.5;}</style> </div> </div> <div class="t706__cartpage-info t-col t-col_6"> <div class="t706__cartpage-info-wrapper"> <div class="t706__cartpage-products"></div> <div class="t706__cartpage-totals"> <div class="t706__cartpage-prodamount t706__cartwin-prodamount-wrap t-descr t-descr_sm"> <span class="t706__cartwin-prodamount-label"></span> <span class="t706__cartwin-prodamount"></span> </div> </div> </div> </div> </div> </div> <div class="t706__sidebar" style="display: none"> <div class="t706__sidebar-content"> <div class="t706__sidebar-top"> <div class="t706__sidebar-heading t-name t-name_xl"></div> <div class="t706__sidebar-close"> <button
-type="button"
-class="t706__sidebar-close-btn"
-aria-label="Закрыть корзину"> <svg role="presentation" class="t706__close-icon t706__sidebar-close-icon" width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"> <g stroke="none" stroke-width="1" fill="#000" fill-rule="evenodd"> <rect transform="translate(11.313708, 11.313708) rotate(-45.000000) translate(-11.313708, -11.313708) " x="10.3137085" y="-3.6862915" width="2" height="30"></rect> <rect transform="translate(11.313708, 11.313708) rotate(-315.000000) translate(-11.313708, -11.313708) " x="10.3137085" y="-3.6862915" width="2" height="30"></rect> </g> </svg> </button> </div> </div> <div class="t706__sidebar-products"></div> <div class="t706__sidebar-prodamount-wrap t-descr t-descr_sm"> <span class="t706__sidebar-prodamount-label"></span> <span class="t706__sidebar-prodamount"></span> </div> <div class="t706__sidebar-bottom"> <button class="t706__sidebar-continue t-btn" style="color:#ffffff;background-color:#000000;border-radius:250px; -moz-border-radius:250px; -webkit-border-radius:250px;">ОФОРМИТЬ ЗАКАЗ</button> </div> </div> </div> </div> <style>@media screen and (max-width:960px){.t706__carticon{}}.t706__carticon-text{color:#707b80;}.t706__carticon-text::after{border-left-color:#ded7cb;}.t706__carticon-text{background:#ded7cb;}</style> <!--/tcart--> </div> </header> <!--/header--> <div id="rec717642273" class="r t-rec t-rec_pt_30 t-rec_pb_45" style="padding-top:30px;padding-bottom:45px; " data-record-type="363"> <!-- T029 20 --> <div class="t029"> <div class="t029__container t-container"> <div class="t029__col t-col t-col_8"> <div class="t029__linewrapper" style="opacity:0.2;"> <div class="t029__opacity t029__opacity_left" style="background-image: -moz-linear-gradient(right, #000000, rgba(0,0,0, 0)); background-image: -webkit-linear-gradient(right, #000000, rgba(0,0,0, 0)); background-image: -o-linear-gradient(right, #000000, rgba(0,0,0, 0)); background-image: -ms-linear-gradient(right, #000000, rgba(0,0,0, 0));"></div> <div class="t-divider t029__line" style="background: #000000;"></div> <div class="t029__opacity t029__opacity_right" style="background-image: -moz-linear-gradient(left, #000000, rgba(0,0,0, 0)); background-image: -webkit-linear-gradient(left, #000000, rgba(0,0,0, 0)); background-image: -o-linear-gradient(left, #000000, rgba(0,0,0, 0)); background-image: -ms-linear-gradient(left, #000000, rgba(0,0,0, 0));"></div> </div> </div> </div> </div> </div> <div id="rec719379382" class="r t-rec" style=" " data-record-type="396"> <!-- T396 --> <style>#rec719379382 .t396__artboard {height:233px;background-color:#dfd9ce;}#rec719379382 .t396__filter {height:233px;}#rec719379382 .t396__carrier{height:233px;background-position:center center;background-attachment:scroll;background-size:cover;background-repeat:no-repeat;}@media screen and (max-width:1199px) {#rec719379382 .t396__artboard,#rec719379382 .t396__filter,#rec719379382 .t396__carrier {height:223px;}#rec719379382 .t396__filter {}#rec719379382 .t396__carrier {background-attachment:scroll;}}@media screen and (max-width:959px) {#rec719379382 .t396__artboard,#rec719379382 .t396__filter,#rec719379382 .t396__carrier {height:234px;}#rec719379382 .t396__filter {}#rec719379382 .t396__carrier {background-attachment:scroll;}}@media screen and (max-width:639px) {#rec719379382 .t396__artboard,#rec719379382 .t396__filter,#rec719379382 .t396__carrier {height:242px;}#rec719379382 .t396__filter {}#rec719379382 .t396__carrier {background-attachment:scroll;}}@media screen and (max-width:479px) {#rec719379382 .t396__artboard,#rec719379382 .t396__filter,#rec719379382 .t396__carrier {height:212px;}#rec719379382 .t396__filter {}#rec719379382 .t396__carrier {background-attachment:scroll;}}#rec719379382 .tn-elem[data-elem-id="1474042789259"]{z-index:2;top:34px;left:calc(50% - 81.5px + 0px);width:163px;height:156px;}#rec719379382 .tn-elem[data-elem-id="1474042789259"] .tn-atom {border-radius:3000px;background-color:#ffffff;background-position:center center;background-size:cover;background-repeat:no-repeat;border-color:transparent ;border-style:solid;}@media screen and (max-width:1199px) {#rec719379382 .tn-elem[data-elem-id="1474042789259"] {top:12px;left:calc(50% - 81.5px + 0px);}}@media screen and (max-width:959px) {#rec719379382 .tn-elem[data-elem-id="1474042789259"] {top:27px;left:calc(50% - 81.5px + 0px);}}@media screen and (max-width:639px) {#rec719379382 .tn-elem[data-elem-id="1474042789259"] {top:34px;left:calc(50% - 81.5px + 0px);}}@media screen and (max-width:479px) {#rec719379382 .tn-elem[data-elem-id="1474042789259"] {top:11px;left:calc(50% - 81.5px + 0px);}}#rec719379382 .tn-elem[data-elem-id="1470210011265"]{color:#000000;text-align:center;z-index:3;top:198px;left:calc(50% - 107.5px + 0px);width:215px;height:auto;}#rec719379382 .tn-elem[data-elem-id="1470210011265"] .tn-atom{color:#000000;font-size:30px;font-family:'Source Code Pro',Arial,sans-serif;line-height:1.4;font-weight:500;background-position:center center;border-color:transparent ;border-style:solid;}@media screen and (max-width:1199px) {#rec719379382 .tn-elem[data-elem-id="1470210011265"] {top:185px;left:calc(50% - 107.5px + 0px);width:640px;height:auto;}#rec719379382 .tn-elem[data-elem-id="1470210011265"] .tn-atom{font-size:14px;}}@media screen and (max-width:959px) {#rec719379382 .tn-elem[data-elem-id="1470210011265"] {top:206px;left:calc(50% - 107.5px + 0px);width:620px;height:auto;}}@media screen and (max-width:639px) {#rec719379382 .tn-elem[data-elem-id="1470210011265"] {top:212px;left:calc(50% - 107.5px + 0px);width:460px;height:auto;}#rec719379382 .tn-elem[data-elem-id="1470210011265"] .tn-atom{font-size:14px;}}@media screen and (max-width:479px) {#rec719379382 .tn-elem[data-elem-id="1470210011265"] {top:183px;left:calc(50% - 107.5px + 0px);width:300px;height:auto;}}</style> <div class='t396'> <div class="t396__artboard" data-artboard-recid="719379382" data-artboard-screens="320,480,640,960,1200" data-artboard-height="233" data-artboard-valign="center" data-artboard-upscale="grid" data-artboard-height-res-320="212" data-artboard-height-res-480="242" data-artboard-height-res-640="234" data-artboard-height-res-960="223"> <div class="t396__carrier" data-artboard-recid="719379382"></div> <div class="t396__filter" data-artboard-recid="719379382"></div> <div class='t396__elem tn-elem tn-elem__7193793821474042789259' data-elem-id='1474042789259' data-elem-type='shape' data-field-top-value="34" data-field-left-value="0" data-field-height-value="156" data-field-width-value="163" data-field-axisy-value="top" data-field-axisx-value="center" data-field-container-value="grid" data-field-topunits-value="px" data-field-leftunits-value="px" data-field-heightunits-value="px" data-field-widthunits-value="px" data-field-top-res-320-value="11" data-field-left-res-320-value="0" data-field-top-res-480-value="34" data-field-left-res-480-value="0" data-field-top-res-640-value="27" data-field-left-res-640-value="0" data-field-top-res-960-value="12" data-field-left-res-960-value="0"> <div class='tn-atom t-bgimg' data-original="https://static.tildacdn.com/tild3539-3731-4132-a333-343935666161/6873388909.jpg"
-aria-label='' role="img"> </div> </div> <div class='t396__elem tn-elem tn-elem__7193793821470210011265' data-elem-id='1470210011265' data-elem-type='text' data-field-top-value="198" data-field-left-value="0" data-field-width-value="215" data-field-axisy-value="top" data-field-axisx-value="center" data-field-container-value="grid" data-field-topunits-value="px" data-field-leftunits-value="px" data-field-heightunits-value="" data-field-widthunits-value="px" data-field-top-res-320-value="183" data-field-left-res-320-value="0" data-field-width-res-320-value="300" data-field-top-res-480-value="212" data-field-left-res-480-value="0" data-field-width-res-480-value="460" data-field-top-res-640-value="206" data-field-left-res-640-value="0" data-field-width-res-640-value="620" data-field-top-res-960-value="185" data-field-left-res-960-value="0" data-field-width-res-960-value="640"> <div class='tn-atom'field='tn_text_1470210011265'></div> </div> </div> </div> <script>t_onReady(function() {t_onFuncLoad('t396_init',function() {t396_init('719379382');});});</script> <!-- /T396 --> </div> <div id="rec721599802" class="r t-rec" style=" " data-record-type="33"> <!-- T017 --> <div class="t017"> <div class="t-container t-align_center"> <div class="t-col t-col_10 t-prefix_1"> <h1 class="t017__title t-title t-title_xxs" field="title">КОРОТКО О НАС</h1> </div> </div> </div> </div> <div id="rec719270977" class="r t-rec t-rec_pt_30 t-rec_pb_30" style="padding-top:30px;padding-bottom:30px;background-color:#dfd9ce; " data-record-type="363" data-bg-color="#dfd9ce"> <!-- T029 20 --> <div class="t029"> <div class="t029__container t-container"> <div class="t029__col t-col t-col_8"> <div class="t029__linewrapper" style="opacity:0.2;"> <div class="t029__opacity t029__opacity_left" style="background-image: -moz-linear-gradient(right, #000000, rgba(0,0,0, 0)); background-image: -webkit-linear-gradient(right, #000000, rgba(0,0,0, 0)); background-image: -o-linear-gradient(right, #000000, rgba(0,0,0, 0)); background-image: -ms-linear-gradient(right, #000000, rgba(0,0,0, 0));"></div> <div class="t-divider t029__line" style="background: #000000;"></div> <div class="t029__opacity t029__opacity_right" style="background-image: -moz-linear-gradient(left, #000000, rgba(0,0,0, 0)); background-image: -webkit-linear-gradient(left, #000000, rgba(0,0,0, 0)); background-image: -o-linear-gradient(left, #000000, rgba(0,0,0, 0)); background-image: -ms-linear-gradient(left, #000000, rgba(0,0,0, 0));"></div> </div> </div> </div> </div> </div> <div id="rec721600579" class="r t-rec t-rec_pb_30" style="padding-bottom:30px; " data-record-type="37"> <!-- T022 --> <div class="t022 t-align_center"> <div class="t-container"> <div class="t-row"> <div class="t-col t-col_6 t-prefix_3"> <div class="t022__text t-text t-text_sm" field="text"><span style="color: rgb(0, 0, 0);">Нашему бизнесу уже больше 10 лет и нашу рыбу любят по всей России. </span><br /><br /><span style="color: rgb(0, 0, 0);">Небольшое семейное производство, где мы занимаемся изготовлением самой вкусной вяленой рыбы.</span><br /><br /><span style="color: rgb(0, 0, 0);">Каждый заказ мы собираем с любовью.</span><br /><span style="color: rgb(0, 0, 0);">Очень ответственно подходим к выбору поставщиков и стабильно проходим все необходимые проверки.</span><br /><span style="color: rgb(0, 0, 0);">Рыбку вялим как для себя :)</span></div> </div> </div> </div> </div> </div> <div id="rec721600833" class="r t-rec" style=" " data-record-type="474"> <!-- T474 --> <div class="t474"> <div class="t-container t-align_center"> <div class="t-col t-col_10 t-prefix_1"> <div class="t474__descr t-descr t-descr_xxxl t-margin_auto" field="descr">❤️<span style="color: rgb(0, 0, 0);">Мы стараемся для вас</span>❤️</div> </div> </div> </div> </div> <div id="rec721602036" class="r t-rec t-rec_pt_30 t-rec_pt-res-480_30" style="padding-top:30px; " data-record-type="363"> <!-- T029 20 --> <div class="t029"> <div class="t029__container t-container"> <div class="t029__col t-col t-col_8"> <div class="t029__linewrapper" style="opacity:0.2;"> <div class="t029__opacity t029__opacity_left" style="background-image: -moz-linear-gradient(right, #000000, rgba(0,0,0, 0)); background-image: -webkit-linear-gradient(right, #000000, rgba(0,0,0, 0)); background-image: -o-linear-gradient(right, #000000, rgba(0,0,0, 0)); background-image: -ms-linear-gradient(right, #000000, rgba(0,0,0, 0));"></div> <div class="t-divider t029__line" style="background: #000000;"></div> <div class="t029__opacity t029__opacity_right" style="background-image: -moz-linear-gradient(left, #000000, rgba(0,0,0, 0)); background-image: -webkit-linear-gradient(left, #000000, rgba(0,0,0, 0)); background-image: -o-linear-gradient(left, #000000, rgba(0,0,0, 0)); background-image: -ms-linear-gradient(left, #000000, rgba(0,0,0, 0));"></div> </div> </div> </div> </div> </div> <div id="rec723648369" class="r t-rec t-rec_pt_60" style="padding-top:60px;background-color:#ded7cb; " data-record-type="106" data-bg-color="#ded7cb"> <!-- T004 --> <div class="t004"> <div class="t-container "> <div class="t-col t-col_10 t-prefix_1"> <div field="text" class="t-text t-text_md "><div style="font-size: 32px;" data-customstyle="yes"><span style="color: rgb(0, 0, 0);">Производство на карте:</span></div></div> </div> </div> </div> </div> <div id="rec723639558" class="r t-rec t-rec_pb_30" style="padding-bottom:30px;background-color:#ded7cb; " data-animationappear="off" data-record-type="131" data-bg-color="#ded7cb"> <!-- T123 --> <div class="t123"> <div class="t-container_100 t123__centeredContainer"> <div class="t-width t-width_100 "> <!-- nominify begin --> <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2756.237069670927!2d47.9618094!3d46.3051291!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x41a90e6f2cb3b379%3A0xf3e32263294d950!2z0YPQuy4g0J3QuNC60L7Qu9Cw0Y8g0JLQtdGC0L7RiNC90LjQutC-0LLQsCwgNjYsINCQ0YHRgtGA0LDRhdCw0L3RjCwg0JDRgdGC0YDQsNGF0LDQvdGB0LrQsNGPINC-0LHQuy4sIDQxNDAxNg!5e0!3m2!1sru!2sru!4v1711121659978!5m2!1sru!2sru" width="80%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> <!-- nominify end --> </div> </div> </div> </div> <div id="rec723802497" class="r t-rec t-rec_pt_30 t-rec_pb_45" style="padding-top:30px;padding-bottom:45px; " data-record-type="363"> <!-- T029 20 --> <div class="t029"> <div class="t029__container t-container"> <div class="t029__col t-col t-col_8"> <div class="t029__linewrapper" style="opacity:0.2;"> <div class="t029__opacity t029__opacity_left" style="background-image: -moz-linear-gradient(right, #000000, rgba(0,0,0, 0)); background-image: -webkit-linear-gradient(right, #000000, rgba(0,0,0, 0)); background-image: -o-linear-gradient(right, #000000, rgba(0,0,0, 0)); background-image: -ms-linear-gradient(right, #000000, rgba(0,0,0, 0));"></div> <div class="t-divider t029__line" style="background: #000000;"></div> <div class="t029__opacity t029__opacity_right" style="background-image: -moz-linear-gradient(left, #000000, rgba(0,0,0, 0)); background-image: -webkit-linear-gradient(left, #000000, rgba(0,0,0, 0)); background-image: -o-linear-gradient(left, #000000, rgba(0,0,0, 0)); background-image: -ms-linear-gradient(left, #000000, rgba(0,0,0, 0));"></div> </div> </div> </div> </div> </div> <!--footer--> <footer id="t-footer" class="t-records" data-hook="blocks-collection-content-node" data-tilda-project-id="4717714" data-tilda-page-id="45139667" data-tilda-formskey="53e56bf16182979d84204ecbe4717714" data-tilda-lazy="yes" data-tilda-project-lang="RU" data-tilda-root-zone="com"> <div id="rec732316762" class="r t-rec t-rec_pt_45 t-rec_pb_0" style="padding-top:45px;padding-bottom:0px;background-color:#000000; " data-record-type="191" data-bg-color="#000000"> <!-- T142 --> <div class="t142"> <div class="t-container_100"> <div class="t142__wrapone"> <div class="t142__wraptwo"> <a class="t-btn t142__submit t-btn_md"
-href="https://vobla-vo.ru/galery" target="_blank"
-style="color:#f2f2f2;border:3px solid #f2f2f2;background-color:#000000;" data-buttonfieldset="button"> <span class="t142__text">!ГАЛЕРЕЯ!</span> </a> </div> </div> </div> </div> <script>t_onReady(function() {t_onFuncLoad('t142_checkSize',function() {t142_checkSize('732316762');});});window.addEventListener('load',function() {t_onFuncLoad('t142_checkSize',function() {t142_checkSize('732316762');});});</script> </div> <div id="rec732371504" class="r t-rec t-rec_pt_60 t-rec_pb_60" style="padding-top:60px;padding-bottom:60px;background-color:#000000; " data-record-type="106" data-bg-color="#000000"> <!-- T004 --> <div class="t004"> <div class="t-container "> <div class="t-col t-col_8 t-prefix_2"> <div field="text" class="t-text t-text_md "><div style="font-size: 14px;" data-customstyle="yes"><span style="font-size: 16px;">Контакты:</span><br /><a href="tel:+79275720853" style="color: rgb(152, 182, 216);">+79275720853</a>&nbsp;(Астрахань и АО)<br /><a href="https://api.whatsapp.com/send/?phone=79275720853&amp;text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%21+%D0%A5%D0%BE%D1%87%D1%83+%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C+%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7&amp;type=phone_number&amp;app_absent=0" target="_blank" rel="noreferrer noopener">WhatsApp</a>&nbsp;(РФ)<br />contact@vobla-vo.ru</div></div> </div> </div> </div> <style> #rec732371504 .t-text{color:#f2f2f2;}</style> </div> </footer> <!--/footer--> </div> <!--/allrecords--> <!-- Stat --> <script type="text/javascript">if(!window.mainTracker) {window.mainTracker='tilda';}
-setTimeout(function(){(function(d,w,k,o,g) {var n=d.getElementsByTagName(o)[0],s=d.createElement(o),f=function(){n.parentNode.insertBefore(s,n);};s.type="text/javascript";s.async=true;s.key=k;s.id="tildastatscript";s.src=g;if(w.opera=="[object Opera]") {d.addEventListener("DOMContentLoaded",f,false);} else {f();}})(document,window,'89efb9031b24e9656787dc5633ecc42d','script','https://static.tildacdn.com/js/tilda-stat-1.0.min.js');},2000);</script> </body> </html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /> <!--metatextblock-->
+
+    <title>О НАС</title>
+    <meta property="og:url" content="https://www.vobla-vo.ru/about" />
+    <meta property="og:title" content="О НАС" />
+    <meta property="og:description" content="" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image"
+        content="https://static.tildacdn.com/tild3662-3065-4332-b339-353638653138/6873388908.jpg" />
+    <link rel="canonical" href="https://www.vobla-vo.ru/about"> <!--/metatextblock-->
+    <meta name="format-detection" content="telephone=no" />
+    <meta http-equiv="x-dns-prefetch-control" content="on">
+    <link rel="dns-prefetch" href="https://ws.tildacdn.com">
+    <link rel="dns-prefetch" href="https://static.tildacdn.com">
+    <link rel="shortcut icon" href="https://static.tildacdn.com/tild3535-3963-4536-a138-363261393061/icon-round.png"
+        type="image/x-icon" /> <!-- Assets -->
+    <script src="https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js" async charset="utf-8"></script>
+    <link rel="stylesheet" href="https://static.tildacdn.com/css/tilda-grid-3.0.min.css" type="text/css" media="all"
+        onerror="this.loaderr='y';" />
+    <link rel="stylesheet"
+        href="https://static.tildacdn.com/ws/project4717714/tilda-blocks-page45125201.min.css?t=1737550416"
+        type="text/css" media="all" onerror="this.loaderr='y';" />
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200..900&subset=latin,cyrillic"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://static.tildacdn.com/css/tilda-forms-1.0.min.css" type="text/css" media="all"
+        onerror="this.loaderr='y';" />
+    <link rel="stylesheet" href="https://static.tildacdn.com/css/tilda-cart-1.0.min.css" type="text/css" media="all"
+        onerror="this.loaderr='y';" />
+    <script nomodule src="https://static.tildacdn.com/js/tilda-polyfill-1.0.min.js" charset="utf-8"></script>
+    <script
+        type="text/javascript">function t_onReady(func) { if (document.readyState != 'loading') { func(); } else { document.addEventListener('DOMContentLoaded', func); } }
+            function t_onFuncLoad(funcName, okFunc, time) { if (typeof window[funcName] === 'function') { okFunc(); } else { setTimeout(function () { t_onFuncLoad(funcName, okFunc, time); }, (time || 100)); } } function t_throttle(fn, threshhold, scope) { return function () { fn.apply(scope || this, arguments); }; } function t396_initialScale(t) { t = document.getElementById("rec" + t); if (t) { t = t.querySelector(".t396__artboard"); if (t) { var e, r = document.documentElement.clientWidth, a = []; if (i = t.getAttribute("data-artboard-screens")) for (var i = i.split(","), l = 0; l < i.length; l++)a[l] = parseInt(i[l], 10); else a = [320, 480, 640, 960, 1200]; for (l = 0; l < a.length; l++) { var n = a[l]; n <= r && (e = n) } var o = "edit" === window.allrecords.getAttribute("data-tilda-mode"), d = "center" === t396_getFieldValue(t, "valign", e, a), c = "grid" === t396_getFieldValue(t, "upscale", e, a), s = t396_getFieldValue(t, "height_vh", e, a), u = t396_getFieldValue(t, "height", e, a), g = !!window.opr && !!window.opr.addons || !!window.opera || -1 !== navigator.userAgent.indexOf(" OPR/"); if (!o && d && !c && !s && u && !g) { for (var _ = parseFloat((r / e).toFixed(3)), f = [t, t.querySelector(".t396__carrier"), t.querySelector(".t396__filter")], l = 0; l < f.length; l++)f[l].style.height = Math.floor(parseInt(u, 10) * _) + "px"; t396_scaleInitial__getElementsToScale(t).forEach(function (t) { t.style.zoom = _ }) } } } } function t396_scaleInitial__getElementsToScale(t) { return t ? Array.prototype.slice.call(t.children).filter(function (t) { return t && (t.classList.contains("t396__elem") || t.classList.contains("t396__group")) }) : [] } function t396_getFieldValue(t, e, r, a) { var i = a[a.length - 1], l = r === i ? t.getAttribute("data-artboard-" + e) : t.getAttribute("data-artboard-" + e + "-res-" + r); if (!l) for (var n = 0; n < a.length; n++) { var o = a[n]; if (!(o <= r) && (l = o === i ? t.getAttribute("data-artboard-" + e) : t.getAttribute("data-artboard-" + e + "-res-" + o))) break } return l }</script>
+    <script src="https://static.tildacdn.com/js/jquery-1.10.2.min.js" charset="utf-8"
+        onerror="this.loaderr='y';"></script>
+    <script src="https://static.tildacdn.com/js/tilda-scripts-3.0.min.js" charset="utf-8" defer
+        onerror="this.loaderr='y';"></script>
+    <script src="https://static.tildacdn.com/ws/project4717714/tilda-blocks-page45125201.min.js?t=1737550416"
+        charset="utf-8" async onerror="this.loaderr='y';"></script>
+    <script src="https://static.tildacdn.com/js/tilda-lazyload-1.0.min.js" charset="utf-8" async
+        onerror="this.loaderr='y';"></script>
+    <script src="https://static.tildacdn.com/js/tilda-zero-1.1.min.js" charset="utf-8" async
+        onerror="this.loaderr='y';"></script>
+    <script src="https://static.tildacdn.com/js/tilda-menu-1.0.min.js" charset="utf-8" async
+        onerror="this.loaderr='y';"></script>
+    <script src="https://static.tildacdn.com/js/tilda-forms-1.0.min.js" charset="utf-8" async
+        onerror="this.loaderr='y';"></script>
+    <script src="https://static.tildacdn.com/js/tilda-cart-1.0.min.js" charset="utf-8" async
+        onerror="this.loaderr='y';"></script>
+    <script src="https://static.tildacdn.com/js/tilda-widget-positions-1.0.min.js" charset="utf-8" async
+        onerror="this.loaderr='y';"></script>
+    <script src="https://static.tildacdn.com/js/tilda-zero-scale-1.0.min.js" charset="utf-8" async
+        onerror="this.loaderr='y';"></script>
+    <script src="https://static.tildacdn.com/js/tilda-skiplink-1.0.min.js" charset="utf-8" async
+        onerror="this.loaderr='y';"></script>
+    <script src="https://static.tildacdn.com/js/tilda-events-1.0.min.js" charset="utf-8" async
+        onerror="this.loaderr='y';"></script>
+    <script type="text/javascript">window.dataLayer = window.dataLayer || [];</script>
+    <script type="text/javascript">(function () {
+            if ((/bot|google|yandex|baidu|bing|msn|duckduckbot|teoma|slurp|crawler|spider|robot|crawling|facebook/i.test(navigator.userAgent)) === false && typeof (sessionStorage) != 'undefined' && sessionStorage.getItem('visited') !== 'y' && document.visibilityState) {
+                var style = document.createElement('style'); style.type = 'text/css'; style.innerHTML = '@media screen and (min-width: 980px) {.t-records {opacity: 0;}.t-records_animated {-webkit-transition: opacity ease-in-out .2s;-moz-transition: opacity ease-in-out .2s;-o-transition: opacity ease-in-out .2s;transition: opacity ease-in-out .2s;}.t-records.t-records_visible {opacity: 1;}}'; document.getElementsByTagName('head')[0].appendChild(style); function t_setvisRecs() { var alr = document.querySelectorAll('.t-records'); Array.prototype.forEach.call(alr, function (el) { el.classList.add("t-records_animated"); }); setTimeout(function () { Array.prototype.forEach.call(alr, function (el) { el.classList.add("t-records_visible"); }); sessionStorage.setItem("visited", "y"); }, 400); }
+                document.addEventListener('DOMContentLoaded', t_setvisRecs);
+            }
+        })();</script>
+</head>
+
+<body class="t-body" style="margin:0;"> <!--allrecords-->
+    <div id="allrecords" class="t-records" data-hook="blocks-collection-content-node" data-tilda-project-id="4717714"
+        data-tilda-page-id="45125201" data-tilda-page-alias="about"
+        data-tilda-formskey="53e56bf16182979d84204ecbe4717714" data-tilda-lazy="yes" data-tilda-project-lang="RU"
+        data-tilda-root-zone="com" data-tilda-ts="y"> <!--header-->
+        <header id="t-header" class="t-records" data-hook="blocks-collection-content-node"
+            data-tilda-project-id="4717714" data-tilda-page-id="45138815"
+            data-tilda-formskey="53e56bf16182979d84204ecbe4717714" data-tilda-lazy="yes" data-tilda-project-lang="RU"
+            data-tilda-root-zone="com">
+            <div id="rec717624864" class="r t-rec" style=" " data-record-type="456"> <!-- T456 -->
+                <div id="nav717624864marker"></div>
+                <div class="tmenu-mobile">
+                    <div class="tmenu-mobile__container">
+                        <div class="tmenu-mobile__text t-name t-name_md" field="menu_mob_title">&nbsp;</div> <button
+                            type="button" class="t-menuburger t-menuburger_fourth t-menuburger__small"
+                            aria-label="Навигационное меню" aria-expanded="false"> <span
+                                style="background-color:#ffffff;"></span> <span
+                                style="background-color:#ffffff;"></span> <span
+                                style="background-color:#ffffff;"></span> <span
+                                style="background-color:#ffffff;"></span> </button>
+                        <script>function t_menuburger_init(recid) {
+                                var rec = document.querySelector('#rec' + recid); if (!rec) return; var burger = rec.querySelector('.t-menuburger'); if (!burger) return; var isSecondStyle = burger.classList.contains('t-menuburger_second'); if (isSecondStyle && !window.isMobile && !('ontouchend' in document)) { burger.addEventListener('mouseenter', function () { if (burger.classList.contains('t-menuburger-opened')) return; burger.classList.remove('t-menuburger-unhovered'); burger.classList.add('t-menuburger-hovered'); }); burger.addEventListener('mouseleave', function () { if (burger.classList.contains('t-menuburger-opened')) return; burger.classList.remove('t-menuburger-hovered'); burger.classList.add('t-menuburger-unhovered'); setTimeout(function () { burger.classList.remove('t-menuburger-unhovered'); }, 300); }); }
+                                burger.addEventListener('click', function () { if (!burger.closest('.tmenu-mobile') && !burger.closest('.t450__burger_container') && !burger.closest('.t466__container') && !burger.closest('.t204__burger') && !burger.closest('.t199__js__menu-toggler')) { burger.classList.toggle('t-menuburger-opened'); burger.classList.remove('t-menuburger-unhovered'); } }); var menu = rec.querySelector('[data-menu="yes"]'); if (!menu) return; var menuLinks = menu.querySelectorAll('.t-menu__link-item'); var submenuClassList = ['t978__menu-link_hook', 't978__tm-link', 't966__tm-link', 't794__tm-link', 't-menusub__target-link']; Array.prototype.forEach.call(menuLinks, function (link) { link.addEventListener('click', function () { var isSubmenuHook = submenuClassList.some(function (submenuClass) { return link.classList.contains(submenuClass); }); if (isSubmenuHook) return; burger.classList.remove('t-menuburger-opened'); }); }); menu.addEventListener('clickedAnchorInTooltipMenu', function () { burger.classList.remove('t-menuburger-opened'); });
+                            }
+                            t_onReady(function () { t_onFuncLoad('t_menuburger_init', function () { t_menuburger_init('717624864'); }); });</script>
+                        <style>
+                            .t-menuburger {
+                                position: relative;
+                                flex-shrink: 0;
+                                width: 28px;
+                                height: 20px;
+                                padding: 0;
+                                border: none;
+                                background-color: transparent;
+                                outline: none;
+                                -webkit-transform: rotate(0deg);
+                                transform: rotate(0deg);
+                                transition: transform .5s ease-in-out;
+                                cursor: pointer;
+                                z-index: 999;
+                            }
+
+                            .t-menuburger span {
+                                display: block;
+                                position: absolute;
+                                width: 100%;
+                                opacity: 1;
+                                left: 0;
+                                -webkit-transform: rotate(0deg);
+                                transform: rotate(0deg);
+                                transition: .25s ease-in-out;
+                                height: 3px;
+                                background-color: #000;
+                            }
+
+                            .t-menuburger span:nth-child(1) {
+                                top: 0px;
+                            }
+
+                            .t-menuburger span:nth-child(2),
+                            .t-menuburger span:nth-child(3) {
+                                top: 8px;
+                            }
+
+                            .t-menuburger span:nth-child(4) {
+                                top: 16px;
+                            }
+
+                            .t-menuburger__big {
+                                width: 42px;
+                                height: 32px;
+                            }
+
+                            .t-menuburger__big span {
+                                height: 5px;
+                            }
+
+                            .t-menuburger__big span:nth-child(2),
+                            .t-menuburger__big span:nth-child(3) {
+                                top: 13px;
+                            }
+
+                            .t-menuburger__big span:nth-child(4) {
+                                top: 26px;
+                            }
+
+                            .t-menuburger__small {
+                                width: 22px;
+                                height: 14px;
+                            }
+
+                            .t-menuburger__small span {
+                                height: 2px;
+                            }
+
+                            .t-menuburger__small span:nth-child(2),
+                            .t-menuburger__small span:nth-child(3) {
+                                top: 6px;
+                            }
+
+                            .t-menuburger__small span:nth-child(4) {
+                                top: 12px;
+                            }
+
+                            .t-menuburger-opened span:nth-child(1) {
+                                top: 8px;
+                                width: 0%;
+                                left: 50%;
+                            }
+
+                            .t-menuburger-opened span:nth-child(2) {
+                                -webkit-transform: rotate(45deg);
+                                transform: rotate(45deg);
+                            }
+
+                            .t-menuburger-opened span:nth-child(3) {
+                                -webkit-transform: rotate(-45deg);
+                                transform: rotate(-45deg);
+                            }
+
+                            .t-menuburger-opened span:nth-child(4) {
+                                top: 8px;
+                                width: 0%;
+                                left: 50%;
+                            }
+
+                            .t-menuburger-opened.t-menuburger__big span:nth-child(1) {
+                                top: 6px;
+                            }
+
+                            .t-menuburger-opened.t-menuburger__big span:nth-child(4) {
+                                top: 18px;
+                            }
+
+                            .t-menuburger-opened.t-menuburger__small span:nth-child(1),
+                            .t-menuburger-opened.t-menuburger__small span:nth-child(4) {
+                                top: 6px;
+                            }
+
+                            @media (hover),
+                            (min-width:0\0) {
+                                .t-menuburger_first:hover span:nth-child(1) {
+                                    transform: translateY(1px);
+                                }
+
+                                .t-menuburger_first:hover span:nth-child(4) {
+                                    transform: translateY(-1px);
+                                }
+
+                                .t-menuburger_first.t-menuburger__big:hover span:nth-child(1) {
+                                    transform: translateY(3px);
+                                }
+
+                                .t-menuburger_first.t-menuburger__big:hover span:nth-child(4) {
+                                    transform: translateY(-3px);
+                                }
+                            }
+
+                            .t-menuburger_second span:nth-child(2),
+                            .t-menuburger_second span:nth-child(3) {
+                                width: 80%;
+                                left: 20%;
+                                right: 0;
+                            }
+
+                            @media (hover),
+                            (min-width:0\0) {
+
+                                .t-menuburger_second.t-menuburger-hovered span:nth-child(2),
+                                .t-menuburger_second.t-menuburger-hovered span:nth-child(3) {
+                                    animation: t-menuburger-anim 0.3s ease-out normal forwards;
+                                }
+
+                                .t-menuburger_second.t-menuburger-unhovered span:nth-child(2),
+                                .t-menuburger_second.t-menuburger-unhovered span:nth-child(3) {
+                                    animation: t-menuburger-anim2 0.3s ease-out normal forwards;
+                                }
+                            }
+
+                            .t-menuburger_second.t-menuburger-opened span:nth-child(2),
+                            .t-menuburger_second.t-menuburger-opened span:nth-child(3) {
+                                left: 0;
+                                right: 0;
+                                width: 100% !important;
+                            }
+
+                            .t-menuburger_third span:nth-child(4) {
+                                width: 70%;
+                                left: unset;
+                                right: 0;
+                            }
+
+                            @media (hover),
+                            (min-width:0\0) {
+                                .t-menuburger_third:not(.t-menuburger-opened):hover span:nth-child(4) {
+                                    width: 100%;
+                                }
+                            }
+
+                            .t-menuburger_third.t-menuburger-opened span:nth-child(4) {
+                                width: 0 !important;
+                                right: 50%;
+                            }
+
+                            .t-menuburger_fourth {
+                                height: 12px;
+                            }
+
+                            .t-menuburger_fourth.t-menuburger__small {
+                                height: 8px;
+                            }
+
+                            .t-menuburger_fourth.t-menuburger__big {
+                                height: 18px;
+                            }
+
+                            .t-menuburger_fourth span:nth-child(2),
+                            .t-menuburger_fourth span:nth-child(3) {
+                                top: 4px;
+                                opacity: 0;
+                            }
+
+                            .t-menuburger_fourth span:nth-child(4) {
+                                top: 8px;
+                            }
+
+                            .t-menuburger_fourth.t-menuburger__small span:nth-child(2),
+                            .t-menuburger_fourth.t-menuburger__small span:nth-child(3) {
+                                top: 3px;
+                            }
+
+                            .t-menuburger_fourth.t-menuburger__small span:nth-child(4) {
+                                top: 6px;
+                            }
+
+                            .t-menuburger_fourth.t-menuburger__small span:nth-child(2),
+                            .t-menuburger_fourth.t-menuburger__small span:nth-child(3) {
+                                top: 3px;
+                            }
+
+                            .t-menuburger_fourth.t-menuburger__small span:nth-child(4) {
+                                top: 6px;
+                            }
+
+                            .t-menuburger_fourth.t-menuburger__big span:nth-child(2),
+                            .t-menuburger_fourth.t-menuburger__big span:nth-child(3) {
+                                top: 6px;
+                            }
+
+                            .t-menuburger_fourth.t-menuburger__big span:nth-child(4) {
+                                top: 12px;
+                            }
+
+                            @media (hover),
+                            (min-width:0\0) {
+                                .t-menuburger_fourth:not(.t-menuburger-opened):hover span:nth-child(1) {
+                                    transform: translateY(1px);
+                                }
+
+                                .t-menuburger_fourth:not(.t-menuburger-opened):hover span:nth-child(4) {
+                                    transform: translateY(-1px);
+                                }
+
+                                .t-menuburger_fourth.t-menuburger__big:not(.t-menuburger-opened):hover span:nth-child(1) {
+                                    transform: translateY(3px);
+                                }
+
+                                .t-menuburger_fourth.t-menuburger__big:not(.t-menuburger-opened):hover span:nth-child(4) {
+                                    transform: translateY(-3px);
+                                }
+                            }
+
+                            .t-menuburger_fourth.t-menuburger-opened span:nth-child(1),
+                            .t-menuburger_fourth.t-menuburger-opened span:nth-child(4) {
+                                top: 4px;
+                            }
+
+                            .t-menuburger_fourth.t-menuburger-opened span:nth-child(2),
+                            .t-menuburger_fourth.t-menuburger-opened span:nth-child(3) {
+                                opacity: 1;
+                            }
+
+                            @keyframes t-menuburger-anim {
+                                0% {
+                                    width: 80%;
+                                    left: 20%;
+                                    right: 0;
+                                }
+
+                                50% {
+                                    width: 100%;
+                                    left: 0;
+                                    right: 0;
+                                }
+
+                                100% {
+                                    width: 80%;
+                                    left: 0;
+                                    right: 20%;
+                                }
+                            }
+
+                            @keyframes t-menuburger-anim2 {
+                                0% {
+                                    width: 80%;
+                                    left: 0;
+                                }
+
+                                50% {
+                                    width: 100%;
+                                    right: 0;
+                                    left: 0;
+                                }
+
+                                100% {
+                                    width: 80%;
+                                    left: 20%;
+                                    right: 0;
+                                }
+                            }
+                        </style>
+                    </div>
+                </div>
+                <style>
+                    .tmenu-mobile {
+                        background-color: #111;
+                        display: none;
+                        width: 100%;
+                        top: 0;
+                        z-index: 990;
+                    }
+
+                    .tmenu-mobile_positionfixed {
+                        position: fixed;
+                    }
+
+                    .tmenu-mobile__text {
+                        color: #fff;
+                    }
+
+                    .tmenu-mobile__container {
+                        min-height: 64px;
+                        padding: 20px;
+                        position: relative;
+                        box-sizing: border-box;
+                        display: -webkit-flex;
+                        display: -ms-flexbox;
+                        display: flex;
+                        -webkit-align-items: center;
+                        -ms-flex-align: center;
+                        align-items: center;
+                        -webkit-justify-content: space-between;
+                        -ms-flex-pack: justify;
+                        justify-content: space-between;
+                    }
+
+                    .tmenu-mobile__list {
+                        display: block;
+                    }
+
+                    .tmenu-mobile__burgerlogo {
+                        display: inline-block;
+                        font-size: 24px;
+                        font-weight: 400;
+                        white-space: nowrap;
+                        vertical-align: middle;
+                    }
+
+                    .tmenu-mobile__imglogo {
+                        height: auto;
+                        display: block;
+                        max-width: 300px !important;
+                        box-sizing: border-box;
+                        padding: 0;
+                        margin: 0 auto;
+                    }
+
+                    @media screen and (max-width:980px) {
+                        .tmenu-mobile__menucontent_hidden {
+                            display: none;
+                            height: 100%;
+                        }
+
+                        .tmenu-mobile {
+                            display: block;
+                        }
+                    }
+
+                    @media screen and (max-width:980px) {
+                        #rec717624864 .t-menuburger {
+                            -webkit-order: 1;
+                            -ms-flex-order: 1;
+                            order: 1;
+                        }
+                    }
+                </style>
+                <style>
+                    #rec717624864 .tmenu-mobile__burgerlogo a {
+                        color: #ffffff;
+                    }
+                </style>
+                <style>
+                    #rec717624864 .tmenu-mobile__burgerlogo__title {
+                        color: #ffffff;
+                    }
+                </style>
+                <div id="nav717624864" class="t456 t456__positionfixed tmenu-mobile__menucontent_hidden"
+                    style="background-color: rgba(0,0,0,1); " data-bgcolor-hex="#000000"
+                    data-bgcolor-rgba="rgba(0,0,0,1)" data-navmarker="nav717624864marker" data-appearoffset=""
+                    data-bgopacity-two="100" data-menushadow="" data-menushadow-css="" data-bgopacity="1"
+                    data-bgcolor-rgba-afterscroll="rgba(0,0,0,1)" data-menu-items-align="center" data-menu="yes">
+                    <div class="t456__maincontainer " style="">
+                        <nav class="t456__rightwrapper t456__menualign_center" style="">
+                            <ul role="list" class="t456__list t-menu__list">
+                                <li class="t456__list_item" style="padding:0 15px 0 0;"> <a class="t-menu__link-item"
+                                        href="https://vobla-vo.ru/home" data-menu-submenu-hook=""
+                                        data-menu-item-number="1">ВОБЛА-ВО!</a> </li>
+                                <li class="t456__list_item" style="padding:0 15px;"> <a class="t-menu__link-item"
+                                        href="https://vobla-vo.ru/delivery" data-menu-submenu-hook=""
+                                        data-menu-item-number="2">ДОСТАВКА</a> </li>
+                                <li class="t456__list_item" style="padding:0 0 0 15px;"> <a class="t-menu__link-item"
+                                        href="https://vobla-vo.ru/about" data-menu-submenu-hook=""
+                                        data-menu-item-number="3">О НАС</a> </li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+                <style>
+                    @media screen and (max-width:980px) {
+                        #rec717624864 .t456__leftcontainer {
+                            padding: 20px;
+                        }
+                    }
+
+                    @media screen and (max-width:980px) {
+                        #rec717624864 .t456__imglogo {
+                            padding: 20px 0;
+                        }
+                    }
+                </style>
+                <script
+                    type="text/javascript">t_onReady(function () { t_onFuncLoad('t456_setListMagin', function () { t456_setListMagin('717624864', 'flase'); }); }); t_onReady(function () { t_onFuncLoad('t_menu__highlightActiveLinks', function () { t_menu__highlightActiveLinks('.t456__list_item a'); }); t_onFuncLoad('t_menu__findAnchorLinks', function () { t_menu__findAnchorLinks('717624864', '.t456__list_item a'); }); }); t_onReady(function () { t_onFuncLoad('t_menu__setBGcolor', function () { t_menu__setBGcolor('717624864', '.t456'); window.addEventListener('resize', function () { t_menu__setBGcolor('717624864', '.t456'); }); }); t_onFuncLoad('t_menu__interactFromKeyboard', function () { t_menu__interactFromKeyboard('717624864'); }); }); t_onReady(function () { t_onFuncLoad('t_menu__changeBgOpacity', function () { t_menu__changeBgOpacity('717624864', '.t456'); window.addEventListener('scroll', t_throttle(function () { t_menu__changeBgOpacity('717624864', '.t456'); })); }); });</script>
+                <script
+                    type="text/javascript">t_onReady(function () { t_onFuncLoad('t_menu__createMobileMenu', function () { t_menu__createMobileMenu('717624864', '.t456'); }); });</script>
+                <style>
+                    #rec717624864 .t-menu__link-item {}
+
+                    @supports (overflow:-webkit-marquee) and (justify-content:inherit) {
+
+                        #rec717624864 .t-menu__link-item,
+                        #rec717624864 .t-menu__link-item.t-active {
+                            opacity: 1 !important;
+                        }
+                    }
+                </style>
+                <style>
+                    #rec717624864 .t456__logowrapper a {
+                        color: #ffffff;
+                    }
+
+                    #rec717624864 a.t-menu__link-item {
+                        color: #ffffff;
+                        font-weight: 600;
+                    }
+                </style>
+                <style>
+                    #rec717624864 .t456__logo {
+                        color: #ffffff;
+                    }
+                </style>
+                <!--[if IE 8]> <style>#rec717624864 .t456{filter:progid:DXImageTransform.Microsoft.gradient(startColorStr='#D9000000',endColorstr='#D9000000');}</style> <![endif]-->
+            </div>
+            <div id="rec718665941" class="r t-rec" style=" " data-animationappear="off" data-record-type="706">
+                <!--tcart--> <!-- @classes: t-text t-text_xs t-name t-name_xs t-name_md t-btn t-btn_sm -->
+                <script>t_onReady(function () {
+                        setTimeout(function () { t_onFuncLoad('tcart__init', function () { tcart__init('718665941'); }); }, 50); var userAgent = navigator.userAgent.toLowerCase(); var body = document.body; if (!body) return; if (userAgent.indexOf('instagram') !== -1 && userAgent.indexOf('iphone') !== -1) { body.style.position = 'relative'; }
+                        var rec = document.querySelector('#rec718665941'); if (!rec) return; var cartWindow = rec.querySelector('.t706__cartwin,.t706__cartpage'); var allRecords = document.querySelector('.t-records'); var currentMode = allRecords.getAttribute('data-tilda-mode'); if (cartWindow && currentMode !== 'edit' && currentMode !== 'preview') { cartWindow.addEventListener('scroll', t_throttle(function () { if (window.lazy === 'y' || document.querySelector('#allrecords').getAttribute('data-tilda-lazy') === 'yes') { t_onFuncLoad('t_lazyload_update', function () { t_lazyload_update(); }); } }, 500)); }
+                    });</script>
+                <div class="t706" data-cart-fullscreen="yes" data-cart-countdown="yes" data-project-currency="руб"
+                    data-project-currency-side="r" data-project-currency-sep="," data-project-currency-code="RUB"
+                    data-cart-minorder="600">
+                    <div class="t706__carticon t706__carticon_sm" style="">
+                        <div class="t706__carticon-text t-name t-name_xs"></div>
+                        <div class="t706__carticon-wrapper">
+                            <div class="t706__carticon-imgwrap"
+                                style="border: 1px solid #ded7cb;background-color:#5a656a;"> <svg role="img"
+                                    style="stroke:#ded7cb;" class="t706__carticon-img"
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+                                    <path fill="none" stroke-width="2" stroke-miterlimit="10"
+                                        d="M44 18h10v45H10V18h10z" />
+                                    <path fill="none" stroke-width="2" stroke-miterlimit="10"
+                                        d="M22 24V11c0-5.523 4.477-10 10-10s10 4.477 10 10v13" />
+                                </svg> </div>
+                            <div class="t706__carticon-counter js-carticon-counter"></div>
+                        </div>
+                    </div>
+                    <div class="t706__cartpage" style="display: none;">
+                        <div class="t706__cartpage-top"> <button type="button" class="t706__cartpage-back"
+                                aria-label="Назад"> <svg role="presentation"
+                                    class="t706__close-icon t706__cartpage-back-icon" width="1em" height="1em"
+                                    viewBox="0 0 26 26">
+                                    <g fill-rule="evenodd" stroke-width="2" fill="#000" fill-rule="evenodd">
+                                        <path
+                                            d="m10.4142 5 1.4142 1.4142L5.829 12.414l17.5852.0002v2L5.829 14.414l5.9994 6.0002-1.4142 1.4142L2 13.4142 10.4142 5Z" />
+                                    </g>
+                                </svg> </button>
+                            <div class="t706__cartpage-heading t-name t-name_xl"></div> <button type="button"
+                                class="t706__cartpage-close" aria-label="Закрыть корзину"> <svg role="presentation"
+                                    class="t706__close-icon t706__cartpage-close-icon" width="1em" height="1em"
+                                    viewBox="0 0 23 23">
+                                    <g fill-rule="evenodd" stroke-width="2" fill="#000" fill-rule="evenodd">
+                                        <path d="M0 1.4142 2.1213-.707 23.3345 20.506l-2.1213 2.1213z" />
+                                        <path d="m21.2132 0 2.1213 2.1213L2.1213 23.3345 0 21.2132z" />
+                                    </g>
+                                </svg> </button>
+                        </div>
+                        <div class="t706__cartpage-content t-container">
+                            <div class="t706__cartpage-open-form-wrap" style="display: none;"> <button
+                                    class="t706__cartpage-open-form t-btn"
+                                    style="color:#ffffff;background-color:#000000;border-radius:250px; -moz-border-radius:250px; -webkit-border-radius:250px;">ОФОРМИТЬ
+                                    ЗАКАЗ</button> </div>
+                            <div class="t706__cartpage-form t-col t-col_6">
+                                <div class="t706__cartpage-form-wrapper t-input_nomargin">
+                                    <form id="form718665941" name='form718665941' role="form" action='' method='POST'
+                                        data-formactiontype="2" data-inputbox=".t-input-group"
+                                        class="t-form js-form-proccess t-form_inputs-total_2 t-form_bbonly"
+                                        data-formsended-callback="t706_onSuccessCallback"> <input type="hidden"
+                                            name="formservices[]" value="10a4f738809f7b4de54bcf144fda8361"
+                                            class="js-formaction-services"> <input type="hidden"
+                                            name="tildaspec-formname" tabindex="-1" value="Cart">
+                                        <div class="js-successbox t-form__successbox t-text t-text_md"
+                                            aria-live="polite" style="display:none;"
+                                            data-success-message="Благодарим за заказ! Мы свяжемся с вами в ближайшее время :)">
+                                        </div>
+                                        <div class="t-form__inputsbox t-form__inputsbox_inrow">
+                                            <div class=" t-input-group t-input-group_nm " data-input-lid="9952244879700"
+                                                data-field-type="nm"> <label for='input_9952244879700'
+                                                    class="t-input-title t-descr t-descr_md"
+                                                    id="field-title_9952244879700" data-redactor-toolbar="no"
+                                                    field="li_title__9952244879700" style="color:;">Ваше имя</label>
+                                                <div class="t-input-block ">
+                                                    <input type="text" autocomplete="name" name="name"
+                                                        id="input_9952244879700"
+                                                        class="t-input js-tilda-rule t-input_bbonly" value=""
+                                                        placeholder="Иван Иванович или просто Ваня" data-tilda-req="1"
+                                                        aria-required="true" data-tilda-rule="name"
+                                                        aria-describedby="error_9952244879700"
+                                                        style="color:#000000;border:1px solid #000000;">
+                                                </div>
+                                                <div class="t-input-error" aria-live="polite" id="error_9952244879700">
+                                                </div>
+                                            </div>
+                                            <div class=" t-input-group t-input-group_ph " data-input-lid="9952244879702"
+                                                data-field-type="ph"> <label for='input_9952244879702'
+                                                    class="t-input-title t-descr t-descr_md"
+                                                    id="field-title_9952244879702" data-redactor-toolbar="no"
+                                                    field="li_title__9952244879702" style="color:;">Ваш номер
+                                                    телефона</label>
+                                                <div class="t-input-block "> <input type="tel" autocomplete="tel"
+                                                        name="phone" id="input_9952244879702" data-phonemask-init="no"
+                                                        data-phonemask-id="718665941" data-phonemask-lid="9952244879702"
+                                                        data-phonemask-maskcountry="RU"
+                                                        class="t-input js-phonemask-input js-tilda-rule t-input_bbonly"
+                                                        value="" placeholder="+7(999)999-9999" data-tilda-req="1"
+                                                        aria-required="true" aria-describedby="error_9952244879702"
+                                                        style="color:#000000;border:1px solid #000000;">
+                                                    <script
+                                                        type="text/javascript">if (!document.getElementById('t-phonemask-script')) { (function (d, w, o) { var n = d.getElementsByTagName(o)[0], s = d.createElement(o), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.id = 't-phonemask-script'; s.src = "https://static.tildacdn.com/js/tilda-phone-mask-1.1.min.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, 'script'); } else { t_onReady(function () { t_onFuncLoad('t_form_phonemask_load', function () { var phoneMasks = document.querySelectorAll('#rec718665941 [data-phonemask-lid="9952244879702"]'); t_form_phonemask_load(phoneMasks); }); }); }</script>
+                                                </div>
+                                                <div class="t-input-error" aria-live="polite" id="error_9952244879702">
+                                                </div>
+                                            </div>
+                                            <div class="t-form__errorbox-middle"> <!--noindex-->
+                                                <div class="js-errorbox-all t-form__errorbox-wrapper"
+                                                    style="display:none;" data-nosnippet tabindex="-1"
+                                                    aria-label="Ошибки при заполнении формы">
+                                                    <ul role="list" class="t-form__errorbox-text t-text t-text_md">
+                                                        <li
+                                                            class="t-form__errorbox-item js-rule-error js-rule-error-all">
+                                                        </li>
+                                                        <li
+                                                            class="t-form__errorbox-item js-rule-error js-rule-error-req">
+                                                        </li>
+                                                        <li
+                                                            class="t-form__errorbox-item js-rule-error js-rule-error-email">
+                                                        </li>
+                                                        <li
+                                                            class="t-form__errorbox-item js-rule-error js-rule-error-name">
+                                                        </li>
+                                                        <li
+                                                            class="t-form__errorbox-item js-rule-error js-rule-error-phone">
+                                                        </li>
+                                                        <li
+                                                            class="t-form__errorbox-item js-rule-error js-rule-error-minlength">
+                                                        </li>
+                                                        <li
+                                                            class="t-form__errorbox-item js-rule-error js-rule-error-string">
+                                                        </li>
+                                                    </ul>
+                                                </div> <!--/noindex-->
+                                            </div>
+                                            <div class="t-form__submit"> <button type="submit" class="t-submit"
+                                                    style="color:#ffffff;background-color:#000000;border-radius:250px; -moz-border-radius:250px; -webkit-border-radius:250px;"
+                                                    data-field="buttontitle" data-buttonfieldset="button">
+                                                    ОФОРМИТЬ ЗАКАЗ </button> </div>
+                                        </div>
+                                        <div class="t-form__errorbox-bottom"> <!--noindex-->
+                                            <div class="js-errorbox-all t-form__errorbox-wrapper" style="display:none;"
+                                                data-nosnippet tabindex="-1" aria-label="Ошибки при заполнении формы">
+                                                <ul role="list" class="t-form__errorbox-text t-text t-text_md">
+                                                    <li class="t-form__errorbox-item js-rule-error js-rule-error-all">
+                                                    </li>
+                                                    <li class="t-form__errorbox-item js-rule-error js-rule-error-req">
+                                                    </li>
+                                                    <li class="t-form__errorbox-item js-rule-error js-rule-error-email">
+                                                    </li>
+                                                    <li class="t-form__errorbox-item js-rule-error js-rule-error-name">
+                                                    </li>
+                                                    <li class="t-form__errorbox-item js-rule-error js-rule-error-phone">
+                                                    </li>
+                                                    <li
+                                                        class="t-form__errorbox-item js-rule-error js-rule-error-minlength">
+                                                    </li>
+                                                    <li
+                                                        class="t-form__errorbox-item js-rule-error js-rule-error-string">
+                                                    </li>
+                                                </ul>
+                                            </div> <!--/noindex-->
+                                        </div>
+                                    </form>
+                                    <style>
+                                        #rec718665941 input::-webkit-input-placeholder {
+                                            color: #000000;
+                                            opacity: 0.5;
+                                        }
+
+                                        #rec718665941 input::-moz-placeholder {
+                                            color: #000000;
+                                            opacity: 0.5;
+                                        }
+
+                                        #rec718665941 input:-moz-placeholder {
+                                            color: #000000;
+                                            opacity: 0.5;
+                                        }
+
+                                        #rec718665941 input:-ms-input-placeholder {
+                                            color: #000000;
+                                            opacity: 0.5;
+                                        }
+
+                                        #rec718665941 textarea::-webkit-input-placeholder {
+                                            color: #000000;
+                                            opacity: 0.5;
+                                        }
+
+                                        #rec718665941 textarea::-moz-placeholder {
+                                            color: #000000;
+                                            opacity: 0.5;
+                                        }
+
+                                        #rec718665941 textarea:-moz-placeholder {
+                                            color: #000000;
+                                            opacity: 0.5;
+                                        }
+
+                                        #rec718665941 textarea:-ms-input-placeholder {
+                                            color: #000000;
+                                            opacity: 0.5;
+                                        }
+                                    </style>
+                                </div>
+                            </div>
+                            <div class="t706__cartpage-info t-col t-col_6">
+                                <div class="t706__cartpage-info-wrapper">
+                                    <div class="t706__cartpage-products"></div>
+                                    <div class="t706__cartpage-totals">
+                                        <div
+                                            class="t706__cartpage-prodamount t706__cartwin-prodamount-wrap t-descr t-descr_sm">
+                                            <span class="t706__cartwin-prodamount-label"></span> <span
+                                                class="t706__cartwin-prodamount"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="t706__sidebar" style="display: none">
+                        <div class="t706__sidebar-content">
+                            <div class="t706__sidebar-top">
+                                <div class="t706__sidebar-heading t-name t-name_xl"></div>
+                                <div class="t706__sidebar-close"> <button type="button" class="t706__sidebar-close-btn"
+                                        aria-label="Закрыть корзину"> <svg role="presentation"
+                                            class="t706__close-icon t706__sidebar-close-icon" width="23px" height="23px"
+                                            viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg"
+                                            xmlns:xlink="http://www.w3.org/1999/xlink">
+                                            <g stroke="none" stroke-width="1" fill="#000" fill-rule="evenodd">
+                                                <rect
+                                                    transform="translate(11.313708, 11.313708) rotate(-45.000000) translate(-11.313708, -11.313708) "
+                                                    x="10.3137085" y="-3.6862915" width="2" height="30"></rect>
+                                                <rect
+                                                    transform="translate(11.313708, 11.313708) rotate(-315.000000) translate(-11.313708, -11.313708) "
+                                                    x="10.3137085" y="-3.6862915" width="2" height="30"></rect>
+                                            </g>
+                                        </svg> </button> </div>
+                            </div>
+                            <div class="t706__sidebar-products"></div>
+                            <div class="t706__sidebar-prodamount-wrap t-descr t-descr_sm"> <span
+                                    class="t706__sidebar-prodamount-label"></span> <span
+                                    class="t706__sidebar-prodamount"></span> </div>
+                            <div class="t706__sidebar-bottom"> <button class="t706__sidebar-continue t-btn"
+                                    style="color:#ffffff;background-color:#000000;border-radius:250px; -moz-border-radius:250px; -webkit-border-radius:250px;">ОФОРМИТЬ
+                                    ЗАКАЗ</button> </div>
+                        </div>
+                    </div>
+                </div>
+                <style>
+                    @media screen and (max-width:960px) {
+                        .t706__carticon {}
+                    }
+
+                    .t706__carticon-text {
+                        color: #707b80;
+                    }
+
+                    .t706__carticon-text::after {
+                        border-left-color: #ded7cb;
+                    }
+
+                    .t706__carticon-text {
+                        background: #ded7cb;
+                    }
+                </style> <!--/tcart-->
+            </div>
+        </header> <!--/header-->
+        <div id="rec717642273" class="r t-rec t-rec_pt_30 t-rec_pb_45" style="padding-top:30px;padding-bottom:45px; "
+            data-record-type="363"> <!-- T029 20 -->
+            <div class="t029">
+                <div class="t029__container t-container">
+                    <div class="t029__col t-col t-col_8">
+                        <div class="t029__linewrapper" style="opacity:0.2;">
+                            <div class="t029__opacity t029__opacity_left"
+                                style="background-image: -moz-linear-gradient(right, #000000, rgba(0,0,0, 0)); background-image: -webkit-linear-gradient(right, #000000, rgba(0,0,0, 0)); background-image: -o-linear-gradient(right, #000000, rgba(0,0,0, 0)); background-image: -ms-linear-gradient(right, #000000, rgba(0,0,0, 0));">
+                            </div>
+                            <div class="t-divider t029__line" style="background: #000000;"></div>
+                            <div class="t029__opacity t029__opacity_right"
+                                style="background-image: -moz-linear-gradient(left, #000000, rgba(0,0,0, 0)); background-image: -webkit-linear-gradient(left, #000000, rgba(0,0,0, 0)); background-image: -o-linear-gradient(left, #000000, rgba(0,0,0, 0)); background-image: -ms-linear-gradient(left, #000000, rgba(0,0,0, 0));">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="rec719379382" class="r t-rec" style=" " data-record-type="396"> <!-- T396 -->
+            <style>
+                #rec719379382 .t396__artboard {
+                    height: 233px;
+                    background-color: #dfd9ce;
+                }
+
+                #rec719379382 .t396__filter {
+                    height: 233px;
+                }
+
+                #rec719379382 .t396__carrier {
+                    height: 233px;
+                    background-position: center center;
+                    background-attachment: scroll;
+                    background-size: cover;
+                    background-repeat: no-repeat;
+                }
+
+                @media screen and (max-width:1199px) {
+
+                    #rec719379382 .t396__artboard,
+                    #rec719379382 .t396__filter,
+                    #rec719379382 .t396__carrier {
+                        height: 223px;
+                    }
+
+                    #rec719379382 .t396__filter {}
+
+                    #rec719379382 .t396__carrier {
+                        background-attachment: scroll;
+                    }
+                }
+
+                @media screen and (max-width:959px) {
+
+                    #rec719379382 .t396__artboard,
+                    #rec719379382 .t396__filter,
+                    #rec719379382 .t396__carrier {
+                        height: 234px;
+                    }
+
+                    #rec719379382 .t396__filter {}
+
+                    #rec719379382 .t396__carrier {
+                        background-attachment: scroll;
+                    }
+                }
+
+                @media screen and (max-width:639px) {
+
+                    #rec719379382 .t396__artboard,
+                    #rec719379382 .t396__filter,
+                    #rec719379382 .t396__carrier {
+                        height: 242px;
+                    }
+
+                    #rec719379382 .t396__filter {}
+
+                    #rec719379382 .t396__carrier {
+                        background-attachment: scroll;
+                    }
+                }
+
+                @media screen and (max-width:479px) {
+
+                    #rec719379382 .t396__artboard,
+                    #rec719379382 .t396__filter,
+                    #rec719379382 .t396__carrier {
+                        height: 212px;
+                    }
+
+                    #rec719379382 .t396__filter {}
+
+                    #rec719379382 .t396__carrier {
+                        background-attachment: scroll;
+                    }
+                }
+
+                #rec719379382 .tn-elem[data-elem-id="1474042789259"] {
+                    z-index: 2;
+                    top: 34px;
+                    left: calc(50% - 81.5px + 0px);
+                    width: 163px;
+                    height: 156px;
+                }
+
+                #rec719379382 .tn-elem[data-elem-id="1474042789259"] .tn-atom {
+                    border-radius: 3000px;
+                    background-color: #ffffff;
+                    background-position: center center;
+                    background-size: cover;
+                    background-repeat: no-repeat;
+                    border-color: transparent;
+                    border-style: solid;
+                }
+
+                @media screen and (max-width:1199px) {
+                    #rec719379382 .tn-elem[data-elem-id="1474042789259"] {
+                        top: 12px;
+                        left: calc(50% - 81.5px + 0px);
+                    }
+                }
+
+                @media screen and (max-width:959px) {
+                    #rec719379382 .tn-elem[data-elem-id="1474042789259"] {
+                        top: 27px;
+                        left: calc(50% - 81.5px + 0px);
+                    }
+                }
+
+                @media screen and (max-width:639px) {
+                    #rec719379382 .tn-elem[data-elem-id="1474042789259"] {
+                        top: 34px;
+                        left: calc(50% - 81.5px + 0px);
+                    }
+                }
+
+                @media screen and (max-width:479px) {
+                    #rec719379382 .tn-elem[data-elem-id="1474042789259"] {
+                        top: 11px;
+                        left: calc(50% - 81.5px + 0px);
+                    }
+                }
+
+                #rec719379382 .tn-elem[data-elem-id="1470210011265"] {
+                    color: #000000;
+                    text-align: center;
+                    z-index: 3;
+                    top: 198px;
+                    left: calc(50% - 107.5px + 0px);
+                    width: 215px;
+                    height: auto;
+                }
+
+                #rec719379382 .tn-elem[data-elem-id="1470210011265"] .tn-atom {
+                    color: #000000;
+                    font-size: 30px;
+                    font-family: 'Source Code Pro', Arial, sans-serif;
+                    line-height: 1.4;
+                    font-weight: 500;
+                    background-position: center center;
+                    border-color: transparent;
+                    border-style: solid;
+                }
+
+                @media screen and (max-width:1199px) {
+                    #rec719379382 .tn-elem[data-elem-id="1470210011265"] {
+                        top: 185px;
+                        left: calc(50% - 107.5px + 0px);
+                        width: 640px;
+                        height: auto;
+                    }
+
+                    #rec719379382 .tn-elem[data-elem-id="1470210011265"] .tn-atom {
+                        font-size: 14px;
+                    }
+                }
+
+                @media screen and (max-width:959px) {
+                    #rec719379382 .tn-elem[data-elem-id="1470210011265"] {
+                        top: 206px;
+                        left: calc(50% - 107.5px + 0px);
+                        width: 620px;
+                        height: auto;
+                    }
+                }
+
+                @media screen and (max-width:639px) {
+                    #rec719379382 .tn-elem[data-elem-id="1470210011265"] {
+                        top: 212px;
+                        left: calc(50% - 107.5px + 0px);
+                        width: 460px;
+                        height: auto;
+                    }
+
+                    #rec719379382 .tn-elem[data-elem-id="1470210011265"] .tn-atom {
+                        font-size: 14px;
+                    }
+                }
+
+                @media screen and (max-width:479px) {
+                    #rec719379382 .tn-elem[data-elem-id="1470210011265"] {
+                        top: 183px;
+                        left: calc(50% - 107.5px + 0px);
+                        width: 300px;
+                        height: auto;
+                    }
+                }
+            </style>
+            <div class='t396'>
+                <div class="t396__artboard" data-artboard-recid="719379382" data-artboard-screens="320,480,640,960,1200"
+                    data-artboard-height="233" data-artboard-valign="center" data-artboard-upscale="grid"
+                    data-artboard-height-res-320="212" data-artboard-height-res-480="242"
+                    data-artboard-height-res-640="234" data-artboard-height-res-960="223">
+                    <div class="t396__carrier" data-artboard-recid="719379382"></div>
+                    <div class="t396__filter" data-artboard-recid="719379382"></div>
+                    <div class='t396__elem tn-elem tn-elem__7193793821474042789259' data-elem-id='1474042789259'
+                        data-elem-type='shape' data-field-top-value="34" data-field-left-value="0"
+                        data-field-height-value="156" data-field-width-value="163" data-field-axisy-value="top"
+                        data-field-axisx-value="center" data-field-container-value="grid" data-field-topunits-value="px"
+                        data-field-leftunits-value="px" data-field-heightunits-value="px"
+                        data-field-widthunits-value="px" data-field-top-res-320-value="11"
+                        data-field-left-res-320-value="0" data-field-top-res-480-value="34"
+                        data-field-left-res-480-value="0" data-field-top-res-640-value="27"
+                        data-field-left-res-640-value="0" data-field-top-res-960-value="12"
+                        data-field-left-res-960-value="0">
+                        <div class='tn-atom t-bgimg'
+                            data-original="https://static.tildacdn.com/tild3539-3731-4132-a333-343935666161/6873388909.jpg"
+                            aria-label='' role="img"> </div>
+                    </div>
+                    <div class='t396__elem tn-elem tn-elem__7193793821470210011265' data-elem-id='1470210011265'
+                        data-elem-type='text' data-field-top-value="198" data-field-left-value="0"
+                        data-field-width-value="215" data-field-axisy-value="top" data-field-axisx-value="center"
+                        data-field-container-value="grid" data-field-topunits-value="px" data-field-leftunits-value="px"
+                        data-field-heightunits-value="" data-field-widthunits-value="px"
+                        data-field-top-res-320-value="183" data-field-left-res-320-value="0"
+                        data-field-width-res-320-value="300" data-field-top-res-480-value="212"
+                        data-field-left-res-480-value="0" data-field-width-res-480-value="460"
+                        data-field-top-res-640-value="206" data-field-left-res-640-value="0"
+                        data-field-width-res-640-value="620" data-field-top-res-960-value="185"
+                        data-field-left-res-960-value="0" data-field-width-res-960-value="640">
+                        <div class='tn-atom' field='tn_text_1470210011265'></div>
+                    </div>
+                </div>
+            </div>
+            <script>t_onReady(function () { t_onFuncLoad('t396_init', function () { t396_init('719379382'); }); });</script>
+            <!-- /T396 -->
+        </div>
+        <div id="rec721599802" class="r t-rec" style=" " data-record-type="33"> <!-- T017 -->
+            <div class="t017">
+                <div class="t-container t-align_center">
+                    <div class="t-col t-col_10 t-prefix_1">
+                        <h1 class="t017__title t-title t-title_xxs" field="title">КОРОТКО О НАС</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="rec719270977" class="r t-rec t-rec_pt_30 t-rec_pb_30"
+            style="padding-top:30px;padding-bottom:30px;background-color:#dfd9ce; " data-record-type="363"
+            data-bg-color="#dfd9ce"> <!-- T029 20 -->
+            <div class="t029">
+                <div class="t029__container t-container">
+                    <div class="t029__col t-col t-col_8">
+                        <div class="t029__linewrapper" style="opacity:0.2;">
+                            <div class="t029__opacity t029__opacity_left"
+                                style="background-image: -moz-linear-gradient(right, #000000, rgba(0,0,0, 0)); background-image: -webkit-linear-gradient(right, #000000, rgba(0,0,0, 0)); background-image: -o-linear-gradient(right, #000000, rgba(0,0,0, 0)); background-image: -ms-linear-gradient(right, #000000, rgba(0,0,0, 0));">
+                            </div>
+                            <div class="t-divider t029__line" style="background: #000000;"></div>
+                            <div class="t029__opacity t029__opacity_right"
+                                style="background-image: -moz-linear-gradient(left, #000000, rgba(0,0,0, 0)); background-image: -webkit-linear-gradient(left, #000000, rgba(0,0,0, 0)); background-image: -o-linear-gradient(left, #000000, rgba(0,0,0, 0)); background-image: -ms-linear-gradient(left, #000000, rgba(0,0,0, 0));">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="rec721600579" class="r t-rec t-rec_pb_30" style="padding-bottom:30px; " data-record-type="37">
+            <!-- T022 -->
+            <div class="t022 t-align_center">
+                <div class="t-container">
+                    <div class="t-row">
+                        <div class="t-col t-col_6 t-prefix_3">
+                            <div class="t022__text t-text t-text_sm" field="text"><span
+                                    style="color: rgb(0, 0, 0);">Нашему бизнесу уже больше 10 лет и нашу рыбу любят по
+                                    всей России. </span><br /><br /><span style="color: rgb(0, 0, 0);">Небольшое
+                                    семейное производство, где мы занимаемся изготовлением самой вкусной вяленой
+                                    рыбы.</span><br /><br /><span style="color: rgb(0, 0, 0);">Каждый заказ мы собираем
+                                    с любовью.</span><br /><span style="color: rgb(0, 0, 0);">Очень ответственно
+                                    подходим к выбору поставщиков и стабильно проходим все необходимые
+                                    проверки.</span><br /><span style="color: rgb(0, 0, 0);">Рыбку вялим как для себя
+                                    :)</span></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="rec721600833" class="r t-rec" style=" " data-record-type="474"> <!-- T474 -->
+            <div class="t474">
+                <div class="t-container t-align_center">
+                    <div class="t-col t-col_10 t-prefix_1">
+                        <div class="t474__descr t-descr t-descr_xxxl t-margin_auto" field="descr">❤️<span
+                                style="color: rgb(0, 0, 0);">Мы стараемся для вас</span>❤️</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="rec721602036" class="r t-rec t-rec_pt_30 t-rec_pt-res-480_30" style="padding-top:30px; "
+            data-record-type="363"> <!-- T029 20 -->
+            <div class="t029">
+                <div class="t029__container t-container">
+                    <div class="t029__col t-col t-col_8">
+                        <div class="t029__linewrapper" style="opacity:0.2;">
+                            <div class="t029__opacity t029__opacity_left"
+                                style="background-image: -moz-linear-gradient(right, #000000, rgba(0,0,0, 0)); background-image: -webkit-linear-gradient(right, #000000, rgba(0,0,0, 0)); background-image: -o-linear-gradient(right, #000000, rgba(0,0,0, 0)); background-image: -ms-linear-gradient(right, #000000, rgba(0,0,0, 0));">
+                            </div>
+                            <div class="t-divider t029__line" style="background: #000000;"></div>
+                            <div class="t029__opacity t029__opacity_right"
+                                style="background-image: -moz-linear-gradient(left, #000000, rgba(0,0,0, 0)); background-image: -webkit-linear-gradient(left, #000000, rgba(0,0,0, 0)); background-image: -o-linear-gradient(left, #000000, rgba(0,0,0, 0)); background-image: -ms-linear-gradient(left, #000000, rgba(0,0,0, 0));">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="rec723648369" class="r t-rec t-rec_pt_60" style="padding-top:60px;background-color:#ded7cb; "
+            data-record-type="106" data-bg-color="#ded7cb"> <!-- T004 -->
+            <div class="t004">
+                <div class="t-container ">
+                    <div class="t-col t-col_10 t-prefix_1">
+                        <div field="text" class="t-text t-text_md ">
+                            <div style="font-size: 32px;" data-customstyle="yes"><span
+                                    style="color: rgb(0, 0, 0);">Производство на карте:</span></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="rec723639558" class="r t-rec t-rec_pb_30" style="padding-bottom:30px;background-color:#ded7cb; "
+            data-animationappear="off" data-record-type="131" data-bg-color="#ded7cb"> <!-- T123 -->
+            <div class="t123">
+                <div class="t-container_100 t123__centeredContainer">
+                    <div class="t-width t-width_100 "> <!-- nominify begin --> <iframe
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2756.237069670927!2d47.9618094!3d46.3051291!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x41a90e6f2cb3b379%3A0xf3e32263294d950!2z0YPQuy4g0J3QuNC60L7Qu9Cw0Y8g0JLQtdGC0L7RiNC90LjQutC-0LLQsCwgNjYsINCQ0YHRgtGA0LDRhdCw0L3RjCwg0JDRgdGC0YDQsNGF0LDQvdGB0LrQsNGPINC-0LHQuy4sIDQxNDAxNg!5e0!3m2!1sru!2sru!4v1711121659978!5m2!1sru!2sru"
+                            width="80%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                            referrerpolicy="no-referrer-when-downgrade"></iframe> <!-- nominify end --> </div>
+                </div>
+            </div>
+        </div>
+        <div id="rec723802497" class="r t-rec t-rec_pt_30 t-rec_pb_45" style="padding-top:30px;padding-bottom:45px; "
+            data-record-type="363"> <!-- T029 20 -->
+            <div class="t029">
+                <div class="t029__container t-container">
+                    <div class="t029__col t-col t-col_8">
+                        <div class="t029__linewrapper" style="opacity:0.2;">
+                            <div class="t029__opacity t029__opacity_left"
+                                style="background-image: -moz-linear-gradient(right, #000000, rgba(0,0,0, 0)); background-image: -webkit-linear-gradient(right, #000000, rgba(0,0,0, 0)); background-image: -o-linear-gradient(right, #000000, rgba(0,0,0, 0)); background-image: -ms-linear-gradient(right, #000000, rgba(0,0,0, 0));">
+                            </div>
+                            <div class="t-divider t029__line" style="background: #000000;"></div>
+                            <div class="t029__opacity t029__opacity_right"
+                                style="background-image: -moz-linear-gradient(left, #000000, rgba(0,0,0, 0)); background-image: -webkit-linear-gradient(left, #000000, rgba(0,0,0, 0)); background-image: -o-linear-gradient(left, #000000, rgba(0,0,0, 0)); background-image: -ms-linear-gradient(left, #000000, rgba(0,0,0, 0));">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> <!--footer-->
+        <footer id="t-footer" class="t-records" data-hook="blocks-collection-content-node"
+            data-tilda-project-id="4717714" data-tilda-page-id="45139667"
+            data-tilda-formskey="53e56bf16182979d84204ecbe4717714" data-tilda-lazy="yes" data-tilda-project-lang="RU"
+            data-tilda-root-zone="com">
+            <div id="rec732316762" class="r t-rec t-rec_pt_45 t-rec_pb_0"
+                style="padding-top:45px;padding-bottom:0px;background-color:#000000; " data-record-type="191"
+                data-bg-color="#000000"> <!-- T142 -->
+                <div class="t142">
+                    <div class="t-container_100">
+                        <div class="t142__wrapone">
+                            <div class="t142__wraptwo"> <a class="t-btn t142__submit t-btn_md"
+                                    href="https://vobla-vo.ru/galery" target="_blank"
+                                    style="color:#f2f2f2;border:3px solid #f2f2f2;background-color:#000000;"
+                                    data-buttonfieldset="button"> <span class="t142__text">!ГАЛЕРЕЯ!</span> </a> </div>
+                        </div>
+                    </div>
+                </div>
+                <script>t_onReady(function () { t_onFuncLoad('t142_checkSize', function () { t142_checkSize('732316762'); }); }); window.addEventListener('load', function () { t_onFuncLoad('t142_checkSize', function () { t142_checkSize('732316762'); }); });</script>
+            </div>
+            <div id="rec732371504" class="r t-rec t-rec_pt_60 t-rec_pb_60"
+                style="padding-top:60px;padding-bottom:60px;background-color:#000000; " data-record-type="106"
+                data-bg-color="#000000"> <!-- T004 -->
+                <div class="t004">
+                    <div class="t-container ">
+                        <div class="t-col t-col_8 t-prefix_2">
+                            <div field="text" class="t-text t-text_md ">
+                                <div style="font-size: 14px;" data-customstyle="yes"><span
+                                        style="font-size: 16px;">Контакты:</span><br /><a href="tel:+79275720853"
+                                        style="color: rgb(152, 182, 216);">+79275720853</a>&nbsp;(Астрахань и
+                                    АО)<br /><a
+                                        href="https://api.whatsapp.com/send/?phone=79275720853&amp;text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%21+%D0%A5%D0%BE%D1%87%D1%83+%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C+%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7&amp;type=phone_number&amp;app_absent=0"
+                                        target="_blank"
+                                        rel="noreferrer noopener">WhatsApp</a>&nbsp;(РФ)<br />contact@vobla-vo.ru</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <style>
+                    #rec732371504 .t-text {
+                        color: #f2f2f2;
+                    }
+                </style>
+            </div>
+        </footer> <!--/footer-->
+    </div> <!--/allrecords--> <!-- Stat -->
+    <script
+        type="text/javascript">if (!window.mainTracker) { window.mainTracker = 'tilda'; }
+            setTimeout(function () { (function (d, w, k, o, g) { var n = d.getElementsByTagName(o)[0], s = d.createElement(o), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.key = k; s.id = "tildastatscript"; s.src = g; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, '89efb9031b24e9656787dc5633ecc42d', 'script', 'https://static.tildacdn.com/js/tilda-stat-1.0.min.js'); }, 2000);</script>
+</body>
+
+</html>
